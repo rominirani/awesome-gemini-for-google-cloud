@@ -19,8 +19,28 @@
 * [Assisted Database Management](https://cloud.google.com/duet-ai#assisted-database-management)
 * [Assisted Interoperability](https://cloud.google.com/duet-ai#assisted-interoperability)
 
+### Quickstarts
+* ✏️ [Try Duet AI in the Google Cloud console](https://cloud.google.com/duet-ai/docs/quickstart)
+* ✏️ [Analyze data with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/analyze-data-duet-ai)
+* ✏️ [Develop an app with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/create-app-duet-ai)
+
 ## Release Notes
 * 📙 [Release Notes](https://cloud.google.com/duet-ai/docs/release-notes)
+
+## Duet AI - Data Governance/Certifications/Citations
+* 📙 [How Duet AI in Google Cloud uses your data](https://cloud.google.com/duet-ai/docs/discover/data-governance)
+* 📙 [How Duet AI helps you generate code and cites sources | Google Cloud](https://cloud.google.com/duet-ai/docs/discover/code-generation-source-citation)
+* 📙 [Duet AI in Google Cloud and responsible AI](https://cloud.google.com/duet-ai/docs/discover/responsible-ai)
+* 📙 [Certifications for Duet AI | Google Cloud](https://cloud.google.com/duet-ai/docs/discover/certifications)
+
+## Duet AI - Programming Languages/Tooling support, Quotas/Limits, Locations and more
+* 📙 [Supported coding languages and interfaces | Duet AI | Google Cloud](https://cloud.google.com/duet-ai/docs/discover/supported-languages)
+* 📙 [Quotas and limits | Duet AI | Google Cloud](https://cloud.google.com/duet-ai/docs/quotas)
+* 📙 [Duet AI locations | Google Cloud](https://cloud.google.com/duet-ai/docs/locations)
+* 📙 [Provide Duet AI feedback | Google Cloud](https://cloud.google.com/duet-ai/docs/support/feedback)
+
+## Duet AI - Prompt Techniques
+* 📙 [Write Better Prompts](https://cloud.google.com/duet-ai/docs/discover/write-prompts)
 
 ## Pricing
 * 📙 [Pricing](https://cloud.google.com/duet-ai#pricing-module)
@@ -49,18 +69,30 @@
 * 📰 [What “AI-Assistant for a Developer” is all about? | by Romin Irani | Google Cloud - Community | Oct, 2023 | Medium](https://medium.com/google-cloud/what-ai-assistant-for-a-developer-is-all-about-723de644a449)
 * 📰 [Data Duets with BigQuery and Gen AI | by Ravi Manjunatha | Google Cloud - Community | Oct, 2023 | Medium](https://medium.com/google-cloud/data-duets-with-bigquery-and-gen-ai-5bc0f5081b25)
 
-### Quickstarts
-* ✏️ [Try Duet AI in the Google Cloud console](https://cloud.google.com/duet-ai/docs/quickstart)
-* ✏️ [Analyze data with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/analyze-data-duet-ai)
-* ✏️ [Develop an app with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/create-app-duet-ai)
+## Videos (Google Channels)
+* 🎬 [Introducing Duet AI for Google Cloud](https://www.youtube.com/watch?v=g5TwQx60NXs)
+* 🎬 [Generative AI on Google Cloud (Next ‘23 Rewind)](https://www.youtube.com/watch?v=BWUuj3J_414)
+* 🎬 [Getting Started with Duet AI Playlist](https://www.youtube.com/watch?v=yGCggGLgROI&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4)
+     * 🎬 [Using Duet AI to speed up development](https://www.youtube.com/watch?v=yGCggGLgROI&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=2)
+     * 🎬 [Develop an app with Duet AI assistance](https://www.youtube.com/watch?v=HaL81be3elg&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=3)
+     * 🎬 [How to analyze data with Duet AI](https://www.youtube.com/watch?v=K4CZlL49Fsk&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=4)
+     * 🎬 [Creating GKE clusters with Duet AI](https://www.youtube.com/watch?v=jLm-LL35Oyg&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=5)
+     * 🎬 [Deploying Node.js with Duet AI](https://www.youtube.com/watch?v=t_gy2V1ofv0&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=6)
+     * 🎬 [Architect web apps with Duet AI](https://www.youtube.com/watch?v=f3BeMTfqidA&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=7)
+* 🎬 [How does Duet AI boost productivity?](https://youtu.be/pt4as1o68co?si=ucWlp11z9UsF1FAl)
+* 🎬 [Duet AI: Code completion and generation](https://www.youtube.com/watch?v=tLJ133axB5w)
+* 🎬 [How Duet AI empowers developers of all levels](https://www.youtube.com/watch?v=JZMbqEYqxAs)
 
-### Courses
-* ✏️+📦 
+## Videos (non-Google Channels)
+* 🎬 [Getting started with Duet AI | What is Duet AI - Introduction](https://www.youtube.com/watch?v=V_ihyuoaZQ8&pp=ygUTdmlzaGFsIGJ1bGJ1bGUgZHVldA%3D%3D)
+* 🎬 [Unlocking Duet AI in Google Cloud: Your Step-by-Step Guide to Enable Duet AI in Google Cloud](https://www.youtube.com/watch?v=vk8i1UFPsjk&pp=ygUTdmlzaGFsIGJ1bGJ1bGUgZHVldA%3D%3D)
+* 🎬 [Duet AI in Google Cloud Console  | Duet AI](https://www.youtube.com/watch?v=u1Fvoqh0isk&pp=ygUTdmlzaGFsIGJ1bGJ1bGUgZHVldA%3D%3D)
+* 🎬 [Code generation in VScode using Duet AI | Duet AI for VS Code](https://youtu.be/bS4UZkZqpFc?si=05uO-qfXfppXAGO_)
+* 🎬 [Write queries in BigQuery using Duet AI | Duet AI for BigQuery](https://www.youtube.com/watch?v=n0TWMWxd6aE&pp=ygUTdmlzaGFsIGJ1bGJ1bGUgZHVldA%3D%3D)
 
-### Interactive tutorials
-* ✏️ 
 
 ## Tutorials
-* 📰+📦
+* 📰+📦+✏️ Coming soon!
 
-
+### Courses
+* 📦+✏️ Coming soon!  
