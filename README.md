@@ -25,10 +25,22 @@
 ## Pricing
 * 📙 [Pricing](https://cloud.google.com/duet-ai#pricing-module)
 
+## Google Cloud Blog 
+* 📰 [Introducing Duet AI for Google Cloud – an AI-powered collaborator](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud)
+* 📰 [New AI capabilities that can help address your security challenges | Google Cloud Blog](https://cloud.google.com/blog/products/identity-security/security-ai-next23)
+* 📰 [Duet AI in Google Cloud Preview](https://cloud.google.com/blog/products/ai-machine-learning/duet-ai-in-google-cloud-preview)
+* 📰 [What’s new with data analytics and AI at Next ‘23 | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/whats-new-with-data-analytics-and-ai-at-next23)
+* 📰 [Duet AI in Apigee API Management and Application Integration | Google Cloud Blog](https://cloud.google.com/blog/products/api-management/introducing-duet-ai-in-apigee-api-management-and-application-integration)
+* 📰 [Transform your developer experience with Google Cloud](https://cloud.google.com/blog/products/application-development/transform-your-developer-experience-with-google-cloud)
+* 📰 [The Making of Duet AI | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/the-making-of-duet-ai-your-ai-powered-collaborator-in-google-cloud)
+* 📰 [How Duet AI speeds up development and operations | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/how-duet-ai-speeds-up-development-and-operations)
+* 📰 [Build a Java Spring Boot app with Duet AI in IntelliJ | Google Cloud Blog](https://cloud.google.com/blog/products/application-development/java-coding-with-duet-assistance-for-intellij)
+
+
 ### Quickstarts
-* 📙 [Try Duet AI in the Google Cloud console](https://cloud.google.com/duet-ai/docs/quickstart)
-* 📙 [Analyze data with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/analyze-data-duet-ai)
-* 📙 [Develop an app with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/create-app-duet-ai)
+* ✏️ [Try Duet AI in the Google Cloud console](https://cloud.google.com/duet-ai/docs/quickstart)
+* ✏️ [Analyze data with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/analyze-data-duet-ai)
+* ✏️ [Develop an app with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/create-app-duet-ai)
 
 ### Courses
 * ✏️+📦 
