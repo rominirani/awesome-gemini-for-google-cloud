@@ -57,7 +57,7 @@
 * 📰 [Build a Java Spring Boot app with Duet AI in IntelliJ | Google Cloud Blog](https://cloud.google.com/blog/products/application-development/java-coding-with-duet-assistance-for-intellij)
 
 ## Community Blogs
-* 📰 [YAML'ing at speed with Duet AI](https://jgunnink.substack.com/cp/139331597)
+* 📰 [YAML'ing at speed with Duet AI | by JK Gunnink](https://jgunnink.substack.com/cp/139331597)
 * 📰 [Duet AI Review: My Perception and Use Cases — Part 1 | by Rubens Zimbres | Google Cloud - Community | Nov, 2023 | Medium](https://medium.com/google-cloud/duet-ai-review-my-perception-and-use-cases-part-1-c237ff5077e4)
 * 📰 [Duet AI Review: My Perception and Use Cases — Part 2 | by Rubens Zimbres | Google Cloud - Community | Nov, 2023 | Medium](https://medium.com/google-cloud/duet-ai-review-my-perception-and-use-cases-part-2-f00a5c380891) 
 * 📰 [Boosting Productivity with Unleashed Duet AI Potential🤖 | by Vishal Bulbule | Google Cloud - Community | Nov, 2023 | Medium](https://medium.com/google-cloud/boosting-productivity-with-unleashed-duet-ai-potential-da65fcbf7da9)
