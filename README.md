@@ -80,6 +80,7 @@
      * 🎬 [Creating GKE clusters with Duet AI](https://www.youtube.com/watch?v=jLm-LL35Oyg&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=5)
      * 🎬 [Deploying Node.js with Duet AI](https://www.youtube.com/watch?v=t_gy2V1ofv0&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=6)
      * 🎬 [Architect web apps with Duet AI](https://www.youtube.com/watch?v=f3BeMTfqidA&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=7)
+     * 🎬 [Microservices made easy with Duet AI](https://www.youtube.com/watch?v=fJlXYFjVPX8)
 * 🎬 [How does Duet AI boost productivity?](https://youtu.be/pt4as1o68co?si=ucWlp11z9UsF1FAl)
 * 🎬 [Duet AI: Code completion and generation](https://www.youtube.com/watch?v=tLJ133axB5w)
 * 🎬 [How Duet AI empowers developers of all levels](https://www.youtube.com/watch?v=JZMbqEYqxAs)
