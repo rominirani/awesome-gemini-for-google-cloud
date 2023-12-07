@@ -73,6 +73,7 @@
 ## Videos (Google Channels)
 * 🎬 [Introducing Duet AI for Google Cloud](https://www.youtube.com/watch?v=g5TwQx60NXs)
 * 🎬 [Generative AI on Google Cloud (Next ‘23 Rewind)](https://www.youtube.com/watch?v=BWUuj3J_414)
+* 🎬 [AI and Machine Learning on Google Cloud](https://www.youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn)
 * 🎬 [Getting Started with Duet AI Playlist](https://www.youtube.com/watch?v=yGCggGLgROI&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4)
      * 🎬 [Using Duet AI to speed up development](https://www.youtube.com/watch?v=yGCggGLgROI&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=2)
      * 🎬 [Develop an app with Duet AI assistance](https://www.youtube.com/watch?v=HaL81be3elg&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=3)
