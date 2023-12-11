@@ -85,6 +85,8 @@
      * 🎬 [Designing an enterprise network with Duet AI](https://www.youtube.com/watch?v=A0mz16o-Cwg&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=8)
      * 🎬 [The future of software development with Duet AI](https://www.youtube.com/watch?v=MX1h4GGiESY&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=9)
      * 🎬 [Designing an enterprise network with Duet AI](https://www.youtube.com/watch?v=A0mz16o-Cwg)
+     * 🎬 [Duet AI for navigating security decisions](https://www.youtube.com/watch?v=MhTfXxzY41w)
+     * 🎬 [Designing an LLM connected model with Duet AI](https://www.youtube.com/watch?v=-pA01nGXwSI)
 * 🎬 [How does Duet AI boost productivity?](https://youtu.be/pt4as1o68co?si=ucWlp11z9UsF1FAl)
 * 🎬 [Duet AI: Code completion and generation](https://www.youtube.com/watch?v=tLJ133axB5w)
 * 🎬 [How Duet AI empowers developers of all levels](https://www.youtube.com/watch?v=JZMbqEYqxAs)
