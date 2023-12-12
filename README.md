@@ -10,6 +10,9 @@
 
 * 📙 [Official Documentation](https://cloud.google.com/duet-ai/docs)
 
+## Setup Duet AI for a Project
+* 📙 [Setup Instructions](https://cloud.google.com/duet-ai/docs/discover/set-up-duet-ai)
+
 ## Features
 * [Assisted Development](https://cloud.google.com/duet-ai?hl=en#assisted-development)
 * [Assisted Operations](https://cloud.google.com/duet-ai#assisted-operations)
