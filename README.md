@@ -8,6 +8,7 @@
 
 ## Documentation
 
+* 📙 [Home](https://cloud.google.com/duet-ai/)
 * 📙 [Official Documentation](https://cloud.google.com/duet-ai/docs)
 
 ## Setup Duet AI for a Project
