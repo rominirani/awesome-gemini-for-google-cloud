@@ -15,11 +15,11 @@
 * 📙 [Setup Instructions](https://cloud.google.com/duet-ai/docs/discover/set-up-duet-ai)
 
 ## Features
-* [Code Faster with AI Assistance](https://cloud.google.com/duet-ai#code-faster-with-ai-assistance)
-* [Automate developer inner loop tasks](https://cloud.google.com/duet-ai?hl=en#automate-developer-inner-loop-tasks)
-* [Deploy code to production faster](https://cloud.google.com/duet-ai?hl=en#deploy-code-to-production-faster)
-* [Accelerate troubleshooting and issue remediation](https://cloud.google.com/duet-ai?hl=en#accelerate-troubleshooting-and-issue-remediation)
-* [Uplevel coding and cloud knowledge and skill](https://cloud.google.com/duet-ai?hl=en#uplevel-coding-and-cloud-knowledge-and-skill)
+* 📙 [Code Faster with AI Assistance](https://cloud.google.com/duet-ai#code-faster-with-ai-assistance)
+* 📙 [Automate developer inner loop tasks](https://cloud.google.com/duet-ai?hl=en#automate-developer-inner-loop-tasks)
+* 📙 [Deploy code to production faster](https://cloud.google.com/duet-ai?hl=en#deploy-code-to-production-faster)
+* 📙 [Accelerate troubleshooting and issue remediation](https://cloud.google.com/duet-ai?hl=en#accelerate-troubleshooting-and-issue-remediation)
+* 📙 [Uplevel coding and cloud knowledge and skill](https://cloud.google.com/duet-ai?hl=en#uplevel-coding-and-cloud-knowledge-and-skill)
 
 ### Duet AI Use cases and Quickstarts
 * ✏️ [Try Duet AI in the Google Cloud console](https://cloud.google.com/duet-ai/docs/quickstart)
