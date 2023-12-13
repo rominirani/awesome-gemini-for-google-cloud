@@ -21,10 +21,15 @@
 * [Accelerate troubleshooting and issue remediation](https://cloud.google.com/duet-ai?hl=en#accelerate-troubleshooting-and-issue-remediation)
 * [Uplevel coding and cloud knowledge and skill](https://cloud.google.com/duet-ai?hl=en#uplevel-coding-and-cloud-knowledge-and-skill)
 
-### Quickstarts
+### Duet AI Use cases and Quickstarts
 * ✏️ [Try Duet AI in the Google Cloud console](https://cloud.google.com/duet-ai/docs/quickstart)
 * ✏️ [Analyze data with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/analyze-data-duet-ai)
-* ✏️ [Develop an app with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/create-app-duet-ai)
+* ✏️ [Develop a Python App](https://cloud.google.com/duet-ai/docs/use-cases/python-developer-duet-ai)
+* [Create a private build with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/dev-ops-eng-duet-ai)
+* [Develop a Node.js app with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/js-developer-duet-ai)
+* [Architect a multi-tier app with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/cloud-architect-duet-ai)
+* [Create and modify a VPC network with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/network-engineer-duet-ai)
+* [Create and modify a GKE cluster with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/infrastructure-admin-duet-ai)
 
 ## Release Notes
 * 📙 [Release Notes](https://cloud.google.com/duet-ai/docs/release-notes)
