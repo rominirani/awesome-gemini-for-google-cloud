@@ -15,13 +15,11 @@
 * 📙 [Setup Instructions](https://cloud.google.com/duet-ai/docs/discover/set-up-duet-ai)
 
 ## Features
-* [Assisted Development](https://cloud.google.com/duet-ai?hl=en#assisted-development)
-* [Assisted Operations](https://cloud.google.com/duet-ai#assisted-operations)
-* [Assisted Data Analysis](https://cloud.google.com/duet-ai#assisted-data-analysis-)
-* [Assisted Data Science](https://cloud.google.com/duet-ai#assisted-data-science-)
-* [Assisted Security Management](https://cloud.google.com/duet-ai#assisted-security-management)
-* [Assisted Database Management](https://cloud.google.com/duet-ai#assisted-database-management)
-* [Assisted Interoperability](https://cloud.google.com/duet-ai#assisted-interoperability)
+* [Code Faster with AI Assistance](https://cloud.google.com/duet-ai#code-faster-with-ai-assistance)
+* [Automate developer inner loop tasks](https://cloud.google.com/duet-ai?hl=en#automate-developer-inner-loop-tasks)
+* [Deploy code to production faster](https://cloud.google.com/duet-ai?hl=en#deploy-code-to-production-faster)
+* [Accelerate troubleshooting and issue remediation](https://cloud.google.com/duet-ai?hl=en#accelerate-troubleshooting-and-issue-remediation)
+* [Uplevel coding and cloud knowledge and skill](https://cloud.google.com/duet-ai?hl=en#uplevel-coding-and-cloud-knowledge-and-skill)
 
 ### Quickstarts
 * ✏️ [Try Duet AI in the Google Cloud console](https://cloud.google.com/duet-ai/docs/quickstart)
