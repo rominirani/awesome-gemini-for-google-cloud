@@ -52,7 +52,10 @@
 ## Pricing
 * 📙 [Pricing](https://cloud.google.com/duet-ai/pricing)
 
-## Google Cloud Blog 
+### Courses 
+* 📦+✏️ **Latest** [Qwiklabs - Duet AI in Google Cloud](https://www.cloudskillsboost.google/paths/236)
+
+## Blogs (Google Channels) 
 * 📰 **Latest** [Announcing General Availability of Duet AI for Developers and Duet AI in Security Operations](https://cloud.google.com/blog/products/ai-machine-learning/duet-ai-for-developers-and-in-security-operations-now-ga)
 * 📰 **Latest** [Enhancing Duet AI for Developers through our partner ecosystem](https://cloud.google.com/blog/products/ai-machine-learning/elevating-software-development-with-duet-ai-and-strategic-partners)
 * 📰 [Introducing Duet AI for Google Cloud – an AI-powered collaborator](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud)
@@ -64,9 +67,6 @@
 * 📰 [The Making of Duet AI | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/the-making-of-duet-ai-your-ai-powered-collaborator-in-google-cloud)
 * 📰 [How Duet AI speeds up development and operations | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/how-duet-ai-speeds-up-development-and-operations)
 * 📰 [Build a Java Spring Boot app with Duet AI in IntelliJ | Google Cloud Blog](https://cloud.google.com/blog/products/application-development/java-coding-with-duet-assistance-for-intellij)
-
-### Courses 
-* 📦+✏️ **Latest** [Qwiklabs - Duet AI in Google Cloud](https://www.cloudskillsboost.google/paths/236)
 
 ## Videos (Google Channels)
 * 🎬 [Introducing Duet AI for Google Cloud](https://www.youtube.com/watch?v=g5TwQx60NXs)
@@ -90,6 +90,7 @@
 * 🎬 [How Duet AI empowers developers of all levels](https://www.youtube.com/watch?v=JZMbqEYqxAs)
 
 ## Community Blogs
+* 📰 [Google’s Duet AI Launches GenAI across Full SDLC in the Cloud](https://thenewstack.io/googles-duet-ai-launches-genai-across-full-sdlc-in-the-cloud/)
 * 📰 [YAML'ing at speed with Duet AI | by JK Gunnink](https://jgunnink.substack.com/cp/139331597)
 * 📰 [Duet AI Review: My Perception and Use Cases — Part 1 | by Rubens Zimbres | Google Cloud - Community | Nov, 2023 | Medium](https://medium.com/google-cloud/duet-ai-review-my-perception-and-use-cases-part-1-c237ff5077e4)
 * 📰 [Duet AI Review: My Perception and Use Cases — Part 2 | by Rubens Zimbres | Google Cloud - Community | Nov, 2023 | Medium](https://medium.com/google-cloud/duet-ai-review-my-perception-and-use-cases-part-2-f00a5c380891) 
@@ -103,7 +104,7 @@
 * 📰 [What “AI-Assistant for a Developer” is all about? | by Romin Irani | Google Cloud - Community | Oct, 2023 | Medium](https://medium.com/google-cloud/what-ai-assistant-for-a-developer-is-all-about-723de644a449)
 * 📰 [Data Duets with BigQuery and Gen AI | by Ravi Manjunatha | Google Cloud - Community | Oct, 2023 | Medium](https://medium.com/google-cloud/data-duets-with-bigquery-and-gen-ai-5bc0f5081b25)
 
-## Videos (non-Google Channels)
+## Community Videos
 * 🎬 [Getting started with Duet AI | What is Duet AI - Introduction](https://www.youtube.com/watch?v=V_ihyuoaZQ8&pp=ygUTdmlzaGFsIGJ1bGJ1bGUgZHVldA%3D%3D)
 * 🎬 [Unlocking Duet AI in Google Cloud: Your Step-by-Step Guide to Enable Duet AI in Google Cloud](https://www.youtube.com/watch?v=vk8i1UFPsjk&pp=ygUTdmlzaGFsIGJ1bGJ1bGUgZHVldA%3D%3D)
 * 🎬 [Duet AI in Google Cloud Console  | Duet AI](https://www.youtube.com/watch?v=u1Fvoqh0isk&pp=ygUTdmlzaGFsIGJ1bGJ1bGUgZHVldA%3D%3D)
