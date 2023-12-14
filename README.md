@@ -112,4 +112,4 @@
 * 🎬 [Write queries in BigQuery using Duet AI | Duet AI for BigQuery](https://www.youtube.com/watch?v=n0TWMWxd6aE&pp=ygUTdmlzaGFsIGJ1bGJ1bGUgZHVldA%3D%3D)
 
 ## Tutorials
-* 📰+📦+✏️ Coming soon!
+* 📰+📦+✏️ [Build a #dotnet API from scratch](https://twitter.com/rseroter/status/1734971767389893047)
