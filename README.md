@@ -56,6 +56,8 @@
 * 📦+✏️ **Latest** [Qwiklabs - Duet AI in Google Cloud](https://www.cloudskillsboost.google/paths/236)
 
 ## Blogs (Google Channels) 
+* 📰 **Latest** [Build apps faster with new Duet AI in Google Cloud training content](https://cloud.google.com/blog/topics/training-certifications/new-duet-ai-training-content-available)
+* 📰 **Latest** [Have AI build the app for you](https://cloud.google.com/blog/products/ai-machine-learning/have-duet-ai-make-your-next-app-using-conversation)
 * 📰 **Latest** [Announcing General Availability of Duet AI for Developers and Duet AI in Security Operations](https://cloud.google.com/blog/products/ai-machine-learning/duet-ai-for-developers-and-in-security-operations-now-ga)
 * 📰 **Latest** [Enhancing Duet AI for Developers through our partner ecosystem](https://cloud.google.com/blog/products/ai-machine-learning/elevating-software-development-with-duet-ai-and-strategic-partners)
 * 📰 [Introducing Duet AI for Google Cloud – an AI-powered collaborator](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud)
@@ -106,6 +108,7 @@
 * 📰 [Data Duets with BigQuery and Gen AI | by Ravi Manjunatha | Google Cloud - Community | Oct, 2023 | Medium](https://medium.com/google-cloud/data-duets-with-bigquery-and-gen-ai-5bc0f5081b25)
 
 ## Community Videos
+* 🎬 [Google's Duet AI: A New Challenger to GitHub Co-Pilot?](https://www.youtube.com/watch?v=j0aBI3w7N9c)
 * 🎬 [TDD (Test Driven Development) with Duet as my pair programmer](https://www.youtube.com/watch?v=ArdeZrc8jOk)
 * 🎬 [Getting started with Duet AI | What is Duet AI - Introduction](https://www.youtube.com/watch?v=V_ihyuoaZQ8&pp=ygUTdmlzaGFsIGJ1bGJ1bGUgZHVldA%3D%3D)
 * 🎬 [Unlocking Duet AI in Google Cloud: Your Step-by-Step Guide to Enable Duet AI in Google Cloud](https://www.youtube.com/watch?v=vk8i1UFPsjk&pp=ygUTdmlzaGFsIGJ1bGJ1bGUgZHVldA%3D%3D)
