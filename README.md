@@ -109,6 +109,7 @@
 
 ## Community Videos
 * 🎬 [Google's Duet AI: A New Challenger to GitHub Co-Pilot?](https://www.youtube.com/watch?v=j0aBI3w7N9c)
+* 🎬 [Duet AI vs GitHub Copilot vs ChatGPT: Direct Testing with Coding Challenges](https://www.youtube.com/watch?v=0i4gOcio-8Y)
 * 🎬 [TDD (Test Driven Development) with Duet as my pair programmer](https://www.youtube.com/watch?v=ArdeZrc8jOk)
 * 🎬 [Getting started with Duet AI | What is Duet AI - Introduction](https://www.youtube.com/watch?v=V_ihyuoaZQ8&pp=ygUTdmlzaGFsIGJ1bGJ1bGUgZHVldA%3D%3D)
 * 🎬 [Unlocking Duet AI in Google Cloud: Your Step-by-Step Guide to Enable Duet AI in Google Cloud](https://www.youtube.com/watch?v=vk8i1UFPsjk&pp=ygUTdmlzaGFsIGJ1bGJ1bGUgZHVldA%3D%3D)
