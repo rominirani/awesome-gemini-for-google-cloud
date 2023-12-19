@@ -30,6 +30,10 @@
 * ✏️ [Architect a multi-tier app with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/cloud-architect-duet-ai)
 * ✏️ [Create and modify a VPC network with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/network-engineer-duet-ai)
 * ✏️ [Create and modify a GKE cluster with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/infrastructure-admin-duet-ai)
+* ✏️ [Write code in a Colab Enterprise notebook with Duet AI assistance](https://cloud.google.com/colab/docs/use-code-completion) 
+* ✏️ **Preview** [BigQuery - Write queries with Duet AI assistance](https://cloud.google.com/bigquery/docs/write-sql-duet-ai)
+* ✏️ **Preview** [Cloud Spanner - Write SQL with Duet AI assistance](https://cloud.google.com/spanner/docs/write-sql-duet-ai)
+
 
 ## Release Notes
 * 📙 [Release Notes](https://cloud.google.com/duet-ai/docs/release-notes)
