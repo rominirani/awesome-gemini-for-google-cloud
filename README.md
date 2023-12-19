@@ -113,6 +113,8 @@
 * 📰 [Data Duets with BigQuery and Gen AI | by Ravi Manjunatha | Google Cloud - Community | Oct, 2023 | Medium](https://medium.com/google-cloud/data-duets-with-bigquery-and-gen-ai-5bc0f5081b25)
 
 ## Community Videos
+* 🎬 [Cloud Code and Duet AI](https://www.youtube.com/watch?v=Ix5-cIWI3x0)
+* 🎬 [Google's Code Copilot (Hands-On with Duet AI for Developers)](https://www.youtube.com/watch?v=k7IUGs8yLhw)
 * 🎬 [Google's Duet AI: A New Challenger to GitHub Co-Pilot?](https://www.youtube.com/watch?v=j0aBI3w7N9c)
 * 🎬 [Duet AI vs GitHub Copilot vs ChatGPT: Direct Testing with Coding Challenges](https://www.youtube.com/watch?v=0i4gOcio-8Y)
 * 🎬 [TDD (Test Driven Development) with Duet as my pair programmer](https://www.youtube.com/watch?v=ArdeZrc8jOk)
