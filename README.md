@@ -97,6 +97,7 @@
 * 🎬 [How Duet AI empowers developers of all levels](https://www.youtube.com/watch?v=JZMbqEYqxAs)
 
 ## Community Blogs
+* 📰 [[AI-ifying Programming using Google’s Duet AI](https://medium.com/@danielcracbusiness/ai-ifying-programming-using-googles-duet-ai-d4c53e54415d)
 * 📰 [How to write and deploy a basic Node.js API with Duet AI on VS Code a step-by-step guide](https://geshan.com.np/blog/2023/12/nodejs-duet-ai-vs-code/)
 * 📰 [Google’s Duet AI Launches GenAI across Full SDLC in the Cloud](https://thenewstack.io/googles-duet-ai-launches-genai-across-full-sdlc-in-the-cloud/)
 * 📰 [YAML'ing at speed with Duet AI | by JK Gunnink](https://jgunnink.substack.com/cp/139331597)
