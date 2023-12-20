@@ -95,6 +95,8 @@
 * 🎬 [How does Duet AI boost productivity?](https://youtu.be/pt4as1o68co?si=ucWlp11z9UsF1FAl)
 * 🎬 [Duet AI: Code completion and generation](https://www.youtube.com/watch?v=tLJ133axB5w)
 * 🎬 [How Duet AI empowers developers of all levels](https://www.youtube.com/watch?v=JZMbqEYqxAs)
+* 🎬 [Turing increases developer productivity by over 30% with Duet AI](https://www.youtube.com/watch?v=zbuA2QEwF_E)
+
 
 ## Community Blogs
 * 📰 [[AI-ifying Programming using Google’s Duet AI](https://medium.com/@danielcracbusiness/ai-ifying-programming-using-googles-duet-ai-d4c53e54415d)
