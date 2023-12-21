@@ -92,6 +92,7 @@
      * 🎬 [Designing an LLM connected model with Duet AI](https://www.youtube.com/watch?v=-pA01nGXwSI)
      * 🎬 [Duet AI for Data Professionals](https://www.youtube.com/watch?v=mpm8cNU8yJE)
      * 🎬 [Duet AI for DevOps Engineers](https://www.youtube.com/watch?v=KE03YFNLDFo)
+     * 🎬 [Duet AI for Cyber Security](https://www.youtube.com/watch?v=kD_to1uSlHQ)
 * 🎬 [How does Duet AI boost productivity?](https://youtu.be/pt4as1o68co?si=ucWlp11z9UsF1FAl)
 * 🎬 [Duet AI: Code completion and generation](https://www.youtube.com/watch?v=tLJ133axB5w)
 * 🎬 [How Duet AI empowers developers of all levels](https://www.youtube.com/watch?v=JZMbqEYqxAs)
