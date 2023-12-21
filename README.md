@@ -100,6 +100,7 @@
 
 
 ## Community Blogs
+* 📰 [Getting started with Duet AI on Google Cloud and VS Code](https://medium.com/google-cloud/getting-started-with-duet-ai-on-google-cloud-and-vs-code-0f58be7bc235)
 * 📰 [AI-ifying Programming using Google’s Duet AI](https://medium.com/@danielcracbusiness/ai-ifying-programming-using-googles-duet-ai-d4c53e54415d)
 * 📰 [How to write and deploy a basic Node.js API with Duet AI on VS Code a step-by-step guide](https://geshan.com.np/blog/2023/12/nodejs-duet-ai-vs-code/)
 * 📰 [Google’s Duet AI Launches GenAI across Full SDLC in the Cloud](https://thenewstack.io/googles-duet-ai-launches-genai-across-full-sdlc-in-the-cloud/)
