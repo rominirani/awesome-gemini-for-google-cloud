@@ -117,6 +117,7 @@
 * 📰 [What “AI-Assistant for a Developer” is all about? | by Romin Irani | Google Cloud - Community | Oct, 2023 | Medium](https://medium.com/google-cloud/what-ai-assistant-for-a-developer-is-all-about-723de644a449)
 * 📰 [Data Duets with BigQuery and Gen AI | by Ravi Manjunatha | Google Cloud - Community | Oct, 2023 | Medium](https://medium.com/google-cloud/data-duets-with-bigquery-and-gen-ai-5bc0f5081b25)
 * 📰 [Maximizing Efficiency with Google Duet AI: A Comprehensive Guide | by Jitendra Gupta| Dec, 2023 | (substack.com)](https://cloudexpertshub.substack.com/p/maximizing-efficiency-with-google)
+* 📰 [Navigating GKE with Duet AI: Simplifying Kubernetes Commands | by Jitendra Gupta | Dec, 2023 | Medium](https://medium.com/@jitu028/navigating-gke-with-duet-ai-simplifying-kubernetes-commands-695a0ad4f930)
 
 ## Community Videos
 * 🎬 [Cloud Code and Duet AI](https://www.youtube.com/watch?v=Ix5-cIWI3x0)
