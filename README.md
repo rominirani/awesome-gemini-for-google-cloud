@@ -95,6 +95,7 @@
      * 🎬 [Duet AI for Cyber Security](https://www.youtube.com/watch?v=kD_to1uSlHQ)
      * 🎬 [Duet AI for Developers](https://www.youtube.com/watch?v=zPqCad9HBxg)
      * 🎬 [Duet AI for Network Engineers](https://www.youtube.com/watch?v=fZmTU748YsM)
+     * 🎬 [Duet AI for Cloud Architects](https://www.youtube.com/watch?v=8PPR-5BlSus)
 * 🎬 [How does Duet AI boost productivity?](https://youtu.be/pt4as1o68co?si=ucWlp11z9UsF1FAl)
 * 🎬 [Duet AI: Code completion and generation](https://www.youtube.com/watch?v=tLJ133axB5w)
 * 🎬 [How Duet AI empowers developers of all levels](https://www.youtube.com/watch?v=JZMbqEYqxAs)
