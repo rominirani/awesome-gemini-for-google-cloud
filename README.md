@@ -103,6 +103,7 @@
 
 
 ## Community Blogs
+* 📰 [Unleashing data insights with Google’s Duet AI, zero code required](https://engineering.sada.com/unleashing-data-insights-with-googles-duet-ai-zero-code-required-6cfef39a220d)
 * 📰 [Getting started with Duet AI on Google Cloud and VS Code](https://medium.com/google-cloud/getting-started-with-duet-ai-on-google-cloud-and-vs-code-0f58be7bc235)
 * 📰 [AI-ifying Programming using Google’s Duet AI](https://medium.com/@danielcracbusiness/ai-ifying-programming-using-googles-duet-ai-d4c53e54415d)
 * 📰 [How to write and deploy a basic Node.js API with Duet AI on VS Code a step-by-step guide](https://geshan.com.np/blog/2023/12/nodejs-duet-ai-vs-code/)
