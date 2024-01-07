@@ -90,6 +90,7 @@
      * 🎬 [The future of software development with Duet AI](https://www.youtube.com/watch?v=MX1h4GGiESY&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=9)
      * 🎬 [Duet AI for navigating security decisions](https://www.youtube.com/watch?v=MhTfXxzY41w)
      * 🎬 [Designing an LLM connected model with Duet AI](https://www.youtube.com/watch?v=-pA01nGXwSI)
+  * 🎬 Duet AI for XYZ Series
      * 🎬 [Duet AI for Data Professionals](https://www.youtube.com/watch?v=mpm8cNU8yJE)
      * 🎬 [Duet AI for DevOps Engineers](https://www.youtube.com/watch?v=KE03YFNLDFo)
      * 🎬 [Duet AI for Cyber Security](https://www.youtube.com/watch?v=kD_to1uSlHQ)
@@ -97,6 +98,7 @@
      * 🎬 [Duet AI for Network Engineers](https://www.youtube.com/watch?v=fZmTU748YsM)
      * 🎬 [Duet AI for Cloud Architects](https://www.youtube.com/watch?v=8PPR-5BlSus)
      * 🎬 [Duet AI for Cloud Database Engineers](https://www.youtube.com/watch?v=lv4yWjh-uU8)
+     * 🎬 [Duet AI for Site Reliability Engineers](https://www.youtube.com/watch?v=RBZ9esu9zBA)
 * 🎬 [How does Duet AI boost productivity?](https://youtu.be/pt4as1o68co?si=ucWlp11z9UsF1FAl)
 * 🎬 [Duet AI: Code completion and generation](https://www.youtube.com/watch?v=tLJ133axB5w)
 * 🎬 [How Duet AI empowers developers of all levels](https://www.youtube.com/watch?v=JZMbqEYqxAs)
