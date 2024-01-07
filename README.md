@@ -90,7 +90,7 @@
      * 🎬 [The future of software development with Duet AI](https://www.youtube.com/watch?v=MX1h4GGiESY&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=9)
      * 🎬 [Duet AI for navigating security decisions](https://www.youtube.com/watch?v=MhTfXxzY41w)
      * 🎬 [Designing an LLM connected model with Duet AI](https://www.youtube.com/watch?v=-pA01nGXwSI)
-  * 🎬 Duet AI for XYZ Series
+* 🎬 Duet AI for XYZ Series
      * 🎬 [Duet AI for Data Professionals](https://www.youtube.com/watch?v=mpm8cNU8yJE)
      * 🎬 [Duet AI for DevOps Engineers](https://www.youtube.com/watch?v=KE03YFNLDFo)
      * 🎬 [Duet AI for Cyber Security](https://www.youtube.com/watch?v=kD_to1uSlHQ)
