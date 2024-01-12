@@ -105,7 +105,8 @@
 * 🎬 [Turing increases developer productivity by over 30% with Duet AI](https://www.youtube.com/watch?v=zbuA2QEwF_E)
 
 ## Events
-* 🎬 [Modern Software Delivery with Duet AI for Developers](https://www.youtube.com/watch?v=XNVkc_RPyro)
+* 🎬 [1/10/2024 - Modern Software Delivery with Duet AI for Developers](https://www.youtube.com/watch?v=XNVkc_RPyro)
+* 🎬 [1/11/2024 - Generative AI in Action: Real World Use Cases for Duet AI and BigQuery Studio](https://www.youtube.com/watch?v=KDBhlpLOTvY)
 
 ## Community Blogs
 * 📰 [Unleashing data insights with Google’s Duet AI, zero code required](https://engineering.sada.com/unleashing-data-insights-with-googles-duet-ai-zero-code-required-6cfef39a220d)
