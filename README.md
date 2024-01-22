@@ -60,6 +60,7 @@
 * 📦+✏️ **Latest** [Qwiklabs - Duet AI in Google Cloud](https://www.cloudskillsboost.google/paths/236)
 
 ## Blogs (Google Channels) 
+* 📰 **Latest** [Ten new generative AI trainings to upskill in 2024 with Duet AI](https://cloud.google.com/blog/topics/training-certifications/ten-new-generative-ai-trainings-to-upskill-in-2024-with-duet-ai)
 * 📰 **Latest** [Build apps faster with new Duet AI in Google Cloud training content](https://cloud.google.com/blog/topics/training-certifications/new-duet-ai-training-content-available)
 * 📰 **Latest** [Have AI build the app for you](https://cloud.google.com/blog/products/ai-machine-learning/have-duet-ai-make-your-next-app-using-conversation)
 * 📰 **Latest** [Announcing General Availability of Duet AI for Developers and Duet AI in Security Operations](https://cloud.google.com/blog/products/ai-machine-learning/duet-ai-for-developers-and-in-security-operations-now-ga)
