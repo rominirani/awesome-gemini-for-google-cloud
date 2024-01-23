@@ -13,6 +13,7 @@
 
 ## Setup Duet AI for a Project
 * 📙 [Setup Instructions](https://cloud.google.com/duet-ai/docs/discover/set-up-duet-ai)
+* 📙 [Duet AI Administration - Add/Edit Subscriptions](https://cloud.google.com/duet-ai/docs/admin)
 
 ## Features
 * 📙 [Code Faster with AI Assistance](https://cloud.google.com/duet-ai#code-faster-with-ai-assistance)
