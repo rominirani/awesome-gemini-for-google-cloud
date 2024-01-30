@@ -116,6 +116,7 @@
 * 🎬 [1/11/2024 - Generative AI in Action: Real World Use Cases for Duet AI and BigQuery Studio](https://www.youtube.com/watch?v=KDBhlpLOTvY)
 
 ## Community Blogs
+* 📰 [Test and change an existing web app with Duet AI](https://medium.com/google-cloud/test-and-change-an-existing-web-app-with-duet-ai-863380c9a9d6)
 * 📰 [Integrating Duet AI into Development Workflow](https://medium.com/google-cloud/integrating-duet-ai-into-development-workflow-a-tutorial-guide-on-how-developers-can-seamlessly-f3de35331fc5)
 * 📰 [Provision Cloud Infrastructure Using Google Duet AI](https://dzone.com/articles/provision-cloud-infrastructure-using-google-duet-a)
 * 📰 [Use Google Duet AI to Auto-Generate Code and Write Tests in VS Code](https://medium.com/google-cloud/use-google-duet-ai-to-auto-generate-code-and-write-tests-in-vs-code-9197c66193b1)
