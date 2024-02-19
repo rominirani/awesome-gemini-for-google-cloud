@@ -35,7 +35,6 @@
 * ✏️ **Preview** [BigQuery - Write queries with Duet AI assistance](https://cloud.google.com/bigquery/docs/write-sql-duet-ai)
 * ✏️ **Preview** [Cloud Spanner - Write SQL with Duet AI assistance](https://cloud.google.com/spanner/docs/write-sql-duet-ai)
 
-
 ## Release Notes
 * 📙 [Release Notes](https://cloud.google.com/duet-ai/docs/release-notes)
 
@@ -58,15 +57,16 @@
 * 📙 [Pricing](https://cloud.google.com/duet-ai/pricing)
 
 ### Courses 
-* 📦+✏️ **Latest** [Qwiklabs - Duet AI in Google Cloud](https://www.cloudskillsboost.google/paths/236)
+* 📦+✏️ [Ten new generative AI trainings to upskill in 2024 with Duet AI](https://cloud.google.com/blog/topics/training-certifications/ten-new-generative-ai-trainings-to-upskill-in-2024-with-duet-ai)
+* 📦+✏️ [Qwiklabs - Duet AI in Google Cloud](https://www.cloudskillsboost.google/paths/236)
 
 ## Blogs (Google Channels) 
-* 📰 **Latest** [Ten new generative AI trainings to upskill in 2024 with Duet AI](https://cloud.google.com/blog/topics/training-certifications/ten-new-generative-ai-trainings-to-upskill-in-2024-with-duet-ai)
-* 📰 **Latest** [Figuring out microservices running on your GKE cluster with help from Duet AI](https://cloud.google.com/blog/products/ai-machine-learning/get-ai-help-in-creating-microservices-and-kubernetes)
-* 📰 **Latest** [Get your services back online quickly with Duet AI](https://cloud.google.com/blog/products/ai-machine-learning/ai-assisted-cloud-reliability-engineering)
-* 📰 **Latest** [Explain and customize cloud networking with Duet AI](https://cloud.google.com/blog/products/ai-machine-learning/get-ai-help-on-networking-tasks)
-* 📰 **Latest** [Build apps faster with new Duet AI in Google Cloud training content](https://cloud.google.com/blog/topics/training-certifications/new-duet-ai-training-content-available)
-* 📰 **Latest** [Have AI build the app for you](https://cloud.google.com/blog/products/ai-machine-learning/have-duet-ai-make-your-next-app-using-conversation)
+* 📰 [Ten new generative AI trainings to upskill in 2024 with Duet AI](https://cloud.google.com/blog/topics/training-certifications/ten-new-generative-ai-trainings-to-upskill-in-2024-with-duet-ai)
+* 📰 [Figuring out microservices running on your GKE cluster with help from Duet AI](https://cloud.google.com/blog/products/ai-machine-learning/get-ai-help-in-creating-microservices-and-kubernetes)
+* 📰 [Get your services back online quickly with Duet AI](https://cloud.google.com/blog/products/ai-machine-learning/ai-assisted-cloud-reliability-engineering)
+* 📰 [Explain and customize cloud networking with Duet AI](https://cloud.google.com/blog/products/ai-machine-learning/get-ai-help-on-networking-tasks)
+* 📰 [Build apps faster with new Duet AI in Google Cloud training content](https://cloud.google.com/blog/topics/training-certifications/new-duet-ai-training-content-available)
+* 📰 [Have AI build the app for you](https://cloud.google.com/blog/products/ai-machine-learning/have-duet-ai-make-your-next-app-using-conversation)
 * 📰 [Announcing General Availability of Duet AI for Developers and Duet AI in Security Operations](https://cloud.google.com/blog/products/ai-machine-learning/duet-ai-for-developers-and-in-security-operations-now-ga)
 * 📰 [Enhancing Duet AI for Developers through our partner ecosystem](https://cloud.google.com/blog/products/ai-machine-learning/elevating-software-development-with-duet-ai-and-strategic-partners)
 * 📰 [Introducing Duet AI for Google Cloud – an AI-powered collaborator](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud)
