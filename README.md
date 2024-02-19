@@ -110,6 +110,8 @@
 * 🎬 [Turing increases developer productivity by over 30% with Duet AI](https://www.youtube.com/watch?v=zbuA2QEwF_E)
 
 ## Events
+* 🎬 [2/14/2024 - Code with Duet AI Live Session #5](https://www.youtube.com/watch?v=ZEZ15TPFBBA)
+* 🎬 [2/07/2024 - Code with Duet AI Live Session #4](https://www.youtube.com/watch?v=uaKIxyGtrfg)
 * 🎬 [1/31/2024 - Code with Duet AI Live Session #3](https://www.youtube.com/watch?v=84ALYYd6Irs)
 * 🎬 [1/25/2024 - Code with Duet AI Live Session #2](https://www.youtube.com/watch?v=TowsZQQzz5Y)
 * 🎬 [1/18/2024 - Code with Duet AI Live Session #1](https://www.youtube.com/watch?v=0Mq7j2Tl8gE) 
@@ -144,6 +146,7 @@
 * 📰 [Navigating GKE with Duet AI: Simplifying Kubernetes Commands | by Jitendra Gupta | Dec, 2023 | Medium](https://medium.com/@jitu028/navigating-gke-with-duet-ai-simplifying-kubernetes-commands-695a0ad4f930)
 
 ## Community Videos
+* 🎬 [Duet AI Playbook Series - Prasanjit Singh](https://www.youtube.com/watch?v=Q6lUpRkk-eI&list=UULFPTgt4Wo0MAnuzNEEZlk90A)
 * 🎬 [Cloud Code and Duet AI](https://www.youtube.com/watch?v=Ix5-cIWI3x0)
 * 🎬 [Google's Code Copilot (Hands-On with Duet AI for Developers)](https://www.youtube.com/watch?v=k7IUGs8yLhw)
 * 🎬 [Google's Duet AI: A New Challenger to GitHub Co-Pilot?](https://www.youtube.com/watch?v=j0aBI3w7N9c)
