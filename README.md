@@ -110,6 +110,7 @@
 * 🎬 [Turing increases developer productivity by over 30% with Duet AI](https://www.youtube.com/watch?v=zbuA2QEwF_E)
 
 ## Events
+* 🎬 [2/21/2024 - Code with Duet AI Live Session #6](https://www.youtube.com/watch?v=jotQ4LfPyFk)
 * 🎬 [2/14/2024 - Code with Duet AI Live Session #5](https://www.youtube.com/watch?v=ZEZ15TPFBBA)
 * 🎬 [2/07/2024 - Code with Duet AI Live Session #4](https://www.youtube.com/watch?v=uaKIxyGtrfg)
 * 🎬 [1/31/2024 - Code with Duet AI Live Session #3](https://www.youtube.com/watch?v=84ALYYd6Irs)
