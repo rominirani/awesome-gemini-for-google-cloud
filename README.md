@@ -58,7 +58,7 @@
 ## Pricing
 * 📙 [Pricing](https://cloud.google.com/duet-ai/pricing)
 
-### Codelabs
+## Codelabs
 * 📦+✏️ [A Tour of Duet AI for Developers](https://codelabs.developers.google.com/codelabs/cloud-developer-duetai?hl=en)
 * 📦+✏️ [How to use Duet AI to explore and enhance an existing application](https://codelabs.developers.google.com/codelabs/duet-ai-workshop?hl=en)
 * 📦+✏️ [Using Duet AI Throughout the Software Development Lifecycle](https://codelabs.developers.google.com/codelabs/duet-throughout-the-sdlc?hl=en)
@@ -70,7 +70,7 @@
 * 📦+✏️ [Codelab: Duet AI to accelerate test driven development](https://codelabs.developers.google.com/tdd-ruby-app-duetai?hl=en)
 * 📦+✏️ [Bookshelf Analytics: Use Duet AI to build a Java Cloud Run Application that takes BigQuery data to the web](https://codelabs.developers.google.com/bookshelf-duetai-web-cloudrun?hl=en)
 
-### Courses 
+## Courses 
 * 📦+✏️ [Ten new generative AI trainings to upskill in 2024 with Duet AI](https://cloud.google.com/blog/topics/training-certifications/ten-new-generative-ai-trainings-to-upskill-in-2024-with-duet-ai)
 * 📦+✏️ [Qwiklabs - Duet AI in Google Cloud](https://www.cloudskillsboost.google/paths/236)
 
