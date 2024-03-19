@@ -10,6 +10,7 @@
 
 * 📙 [Home](https://cloud.google.com/duet-ai/)
 * 📙 [Official Documentation](https://cloud.google.com/duet-ai/docs)
+* 📙 [Duet AI in Google Cloud Overview](https://cloud.google.com/duet-ai/docs/overview)
 
 ## Setup Duet AI for a Project
 * 📙 [Setup Instructions](https://cloud.google.com/duet-ai/docs/discover/set-up-duet-ai)
