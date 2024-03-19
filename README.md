@@ -120,6 +120,8 @@
 * 🎬 [1/11/2024 - Generative AI in Action: Real World Use Cases for Duet AI and BigQuery Studio](https://www.youtube.com/watch?v=KDBhlpLOTvY)
 
 ## Community Blogs
+* 📰 [Duet AI for Developers using VSCode](https://medium.com/@larry_nguyen/duet-ai-for-developers-using-vscode-e8315260bb9b)
+* 📰 [Creating Worlds, One Line at a Time: The Power of Duet AI-Generative AI for Developers](https://medium.com/@amaliasonia3/creating-worlds-one-line-at-a-time-the-power-of-duet-ai-generative-ai-for-developers-3e5f13f9f434)
 * 📰 [Test-Driven Development with Java, Spring Boot and Duet AI in GCP](https://medium.com/google-cloud/test-driven-development-with-java-spring-boot-and-duet-ai-in-gcp-3bb6fd4d0822)
 * 📰 [Explore Duet AI to assist with React frontend application development](https://medium.com/google-cloud/explore-duet-ai-to-assist-with-react-frontend-appldevelopment-cc39df3ce7d9)
 * 📰 [How I’d use generative AI to modernize an app](https://seroter.com/2024/02/21/how-id-use-generative-ai-to-modernize-an-app/)
