@@ -8,11 +8,11 @@
 
 ## Documentation
 
-* 📙 [Home](https://cloud.google.com/duet-ai/)
-* 📙 [Official Documentation](https://cloud.google.com/duet-ai/docs)
-* 📙 [Duet AI in Google Cloud Overview](https://cloud.google.com/duet-ai/docs/overview)
+* 📙 [Home](https://cloud.google.com/products/gemini/code-assist)
+* 📙 [Official Documentation](https://cloud.google.com/gemini/docs)
+* 📙 [Duet AI in Google Cloud Overview](https://cloud.google.com/gemini/docs/codeassist/overview)
 
-## Setup Duet AI for a Project
+## Setup Gemini Code Assist for a Project
 * 📙 [Setup Instructions](https://cloud.google.com/duet-ai/docs/discover/set-up-duet-ai)
 * 📙 [Duet AI Administration - Add/Edit Subscriptions](https://cloud.google.com/duet-ai/docs/admin)
 * 📙 [Troubleshoot Setup Issues](https://cloud.google.com/duet-ai/docs/support/troubleshoot-setup)
@@ -24,7 +24,7 @@
 * 📙 [Accelerate troubleshooting and issue remediation](https://cloud.google.com/duet-ai?hl=en#accelerate-troubleshooting-and-issue-remediation)
 * 📙 [Uplevel coding and cloud knowledge and skill](https://cloud.google.com/duet-ai?hl=en#uplevel-coding-and-cloud-knowledge-and-skill)
 
-### Duet AI Use cases and Quickstarts
+### Gemini Code Assist Use cases and Quickstarts
 * ✏️ [Try Duet AI in the Google Cloud console](https://cloud.google.com/duet-ai/docs/quickstart)
 * ✏️ [Analyze data with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/analyze-data-duet-ai)
 * ✏️ [Develop a Python App](https://cloud.google.com/duet-ai/docs/use-cases/python-developer-duet-ai)
@@ -40,7 +40,7 @@
 ## Release Notes
 * 📙 [Release Notes](https://cloud.google.com/duet-ai/docs/release-notes)
 
-## Duet AI - Data Governance/Certifications/Citations
+## Gemini Code Assist - Data Governance/Certifications/Citations
 * 📙 [How Duet AI in Google Cloud uses your data](https://cloud.google.com/duet-ai/docs/discover/data-governance)
 * 📙 [How Duet AI helps you generate code and cites sources | Google Cloud](https://cloud.google.com/duet-ai/docs/discover/code-generation-source-citation)
 * 📙 [Duet AI in Google Cloud and responsible AI](https://cloud.google.com/duet-ai/docs/discover/responsible-ai)
@@ -52,7 +52,7 @@
 * 📙 [Duet AI locations | Google Cloud](https://cloud.google.com/duet-ai/docs/locations)
 * 📙 [Provide Duet AI feedback | Google Cloud](https://cloud.google.com/duet-ai/docs/support/feedback)
 
-## Duet AI - Prompt Techniques
+## Gemini Code Assist - Prompt Techniques
 * 📙 [Write Better Prompts](https://cloud.google.com/duet-ai/docs/discover/write-prompts)
 
 ## Pricing
