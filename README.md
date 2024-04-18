@@ -2,6 +2,8 @@
 
 > A curated list of resources about all things [Gemini for Google Cloud](https://cloud.google.com/products/gemini). Feel free to send Pull Requests!
 
+> Gemini for Google Cloud was formerly known as Duet AI. At Google Cloud NEXT 2024, Duet AI got rebranded to Gemini. You will find links to articles/video prior to this date as still refering to Duet AI in the resources below. 
+
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project and [awesome Cloud Run](https://github.com/steren/awesome-cloud-run) list project.*
 
 *Legend*: 📙: doc, 📰: article, 📦: sample, 🎬: video, 🖼️: slides, ✏️: interactive tutorial, :headphones: : audio, 🛠️: tool
@@ -47,17 +49,17 @@
 ## Release Notes
 * 📙 [Release Notes](https://cloud.google.com/gemini/docs/release-notes)
 
-## Gemini Code Assist - Data Governance/Certifications/Citations
-* 📙 [How Duet AI in Google Cloud uses your data](https://cloud.google.com/duet-ai/docs/discover/data-governance)
-* 📙 [How Duet AI helps you generate code and cites sources | Google Cloud](https://cloud.google.com/duet-ai/docs/discover/code-generation-source-citation)
-* 📙 [Duet AI in Google Cloud and responsible AI](https://cloud.google.com/duet-ai/docs/discover/responsible-ai)
-* 📙 [Certifications for Duet AI | Google Cloud](https://cloud.google.com/duet-ai/docs/discover/certifications)
+## Gemini - Data Governance/Certifications/Citations
+* 📙 [How Gemini works](https://cloud.google.com/gemini/docs/discover/works)
+* 📙 [How Gemini for Google Cloud uses your data](https://cloud.google.com/gemini/docs/discover/data-governance)
+* 📙 [Gemini for Google Cloud and responsible AI](https://cloud.google.com/gemini/docs/discover/responsible-ai)
+* 📙 [Certifications for Gemini for Google Cloud](https://cloud.google.com/gemini/docs/discover/certifications)
 
 ## Gemini - Programming Languages/Tooling support, Quotas/Limits, Locations and more
 * 📙 [Gemini Code Assist - Supported coding languages and interfaces](https://cloud.google.com/gemini/docs/codeassist/supported-languages)
 * 📙 [Quotas and limits | Gemini for Google Cloud](https://cloud.google.com/gemini/docs/quotas)
 * 📙 [Locations | Gemini for Google Cloud](https://cloud.google.com/gemini/docs/locations)
-* 📙 [Provide Duet AI feedback | Google Cloud](https://cloud.google.com/duet-ai/docs/support/feedback)
+* 📙 [Provide Gemini in Google Cloud Feedback](https://cloud.google.com/gemini/docs/support/feedback)
 
 ## Gemini - Prompt Techniques
 * 📙 [Write Better Prompts](https://cloud.google.com/gemini/docs/discover/write-prompts)
