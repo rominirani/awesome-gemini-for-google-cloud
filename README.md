@@ -27,24 +27,28 @@
 * 📙 [Troubleshoot Setup Issues](https://cloud.google.com/gemini/docs/support/troubleshoot-setup)
 
 ## Features
-* 📙 [Code Faster with AI Assistance](https://cloud.google.com/duet-ai#code-faster-with-ai-assistance)
-* 📙 [Automate developer inner loop tasks](https://cloud.google.com/duet-ai?hl=en#automate-developer-inner-loop-tasks)
-* 📙 [Deploy code to production faster](https://cloud.google.com/duet-ai?hl=en#deploy-code-to-production-faster)
-* 📙 [Accelerate troubleshooting and issue remediation](https://cloud.google.com/duet-ai?hl=en#accelerate-troubleshooting-and-issue-remediation)
-* 📙 [Uplevel coding and cloud knowledge and skill](https://cloud.google.com/duet-ai?hl=en#uplevel-coding-and-cloud-knowledge-and-skill)
+* 📙 Gemini Code Assist
+  * 📙 [Code Faster with AI Assistance](https://cloud.google.com/products/gemini/code-assist?e=48754805&hl=en#code-faster-with-ai-assistance)
+  * 📙 [Automate developer inner loop tasks](https://cloud.google.com/products/gemini/code-assist?e=48754805&hl=en#automate-developer-inner-loop-tasks)
+  * 📙 [Uplevel coding and technical skills](https://cloud.google.com/products/gemini/code-assist?e=48754805&hl=en#uplevel-coding-and-technical-skills)
+  * 📙 [Build APIs and automations without special expertise](https://cloud.google.com/products/gemini/code-assist?e=48754805&hl=en#build-apis-and-automations-without-special-expertise)
+* 📙 Gemini Code Assist
+  * [Goal-driven design](https://cloud.google.com/products/gemini/cloud-assist?e=48754805&hl=en#goal-driven-design)
+  * [Guided operations and troubleshooting](https://cloud.google.com/products/gemini/cloud-assist?e=48754805&hl=en#guided-operations-and-troubleshooting)
+  * [Tailored optimizations](https://cloud.google.com/products/gemini/cloud-assist?e=48754805&hl=en#tailored-optimizations)
 
 ### Gemini for Google Cloud Use cases and Quickstarts
-* ✏️ [Try Duet AI in the Google Cloud console](https://cloud.google.com/duet-ai/docs/quickstart)
-* ✏️ [Analyze data with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/analyze-data-duet-ai)
-* ✏️ [Develop a Python App](https://cloud.google.com/duet-ai/docs/use-cases/python-developer-duet-ai)
-* ✏️ [Create a private build with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/dev-ops-eng-duet-ai)
-* ✏️ [Develop a Node.js app with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/js-developer-duet-ai)
-* ✏️ [Architect a multi-tier app with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/cloud-architect-duet-ai)
-* ✏️ [Create and modify a VPC network with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/network-engineer-duet-ai)
-* ✏️ [Create and modify a GKE cluster with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/infrastructure-admin-duet-ai)
-* ✏️ [Write code in a Colab Enterprise notebook with Duet AI assistance](https://cloud.google.com/colab/docs/use-code-completion) 
-* ✏️ **Preview** [BigQuery - Write queries with Duet AI assistance](https://cloud.google.com/bigquery/docs/write-sql-duet-ai)
-* ✏️ **Preview** [Cloud Spanner - Write SQL with Duet AI assistance](https://cloud.google.com/spanner/docs/write-sql-duet-ai)
+* ✏️ [Try Gemini in Cloud Console](https://cloud.google.com/gemini/docs/quickstart)
+* ✏️ [Analyze data](https://cloud.google.com/gemini/docs/use-cases/analyze-data-gemini)
+* ✏️ [Develop a Python App](https://cloud.google.com/gemini/docs/use-cases/python-developer-gemini)
+* ✏️ [Create a private build](https://cloud.google.com/gemini/docs/use-cases/dev-ops-eng-gemini)
+* ✏️ [Develop a Node.js app](https://cloud.google.com/gemini/docs/use-cases/js-developer-gemini)
+* ✏️ [Architect a multi-tier app](https://cloud.google.com/gemini/docs/use-cases/cloud-architect-gemini)
+* ✏️ [Create and modify a VPC network](https://cloud.google.com/gemini/docs/use-cases/network-engineer-gemini)
+* ✏️ [Create and modify a GKE cluster with Gemini for Google Cloud assistance](https://cloud.google.com/gemini/docs/use-cases/infrastructure-admin-gemini)
+* ✏️ [Write code in a Colab Enterprise notebook with Gemini assistance](https://cloud.google.com/colab/docs/use-code-completion) 
+* ✏️ **Preview** [BigQuery - Write queries with Gemini assistance](https://cloud.google.com/bigquery/docs/write-sql-gemini)
+* ✏️ **Preview** [Cloud Spanner - Write SQL with Gemini assistance](https://cloud.google.com/spanner/docs/write-sql-gemini)
 
 ## Release Notes
 * 📙 [Release Notes](https://cloud.google.com/gemini/docs/release-notes)
@@ -66,6 +70,7 @@
 
 ## Pricing
 * 📙 [Pricing](https://cloud.google.com/products/gemini/pricing)
+* 📙 [Gemini Code Assist](https://cloud.google.com/products/gemini/code-assist?e=48754805&hl=en#pricing)
 
 ## Codelabs
 * 📦+✏️ [A Tour of Duet AI for Developers](https://codelabs.developers.google.com/codelabs/cloud-developer-duetai?hl=en)
@@ -80,8 +85,7 @@
 * 📦+✏️ [Bookshelf Analytics: Use Duet AI to build a Java Cloud Run Application that takes BigQuery data to the web](https://codelabs.developers.google.com/bookshelf-duetai-web-cloudrun?hl=en)
 
 ## Courses 
-* 📦+✏️ [Ten new generative AI trainings to upskill in 2024 with Duet AI](https://cloud.google.com/blog/topics/training-certifications/ten-new-generative-ai-trainings-to-upskill-in-2024-with-duet-ai)
-* 📦+✏️ [Qwiklabs - Duet AI in Google Cloud](https://www.cloudskillsboost.google/paths/236)
+* 📦+✏️ [Gemini for Google Cloud - Learning Path](https://www.cloudskillsboost.google/paths/236)
 
 ## Blogs (Google Channels) 
 * 📰 [Ten new generative AI trainings to upskill in 2024 with Duet AI](https://cloud.google.com/blog/topics/training-certifications/ten-new-generative-ai-trainings-to-upskill-in-2024-with-duet-ai)
