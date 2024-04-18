@@ -1,21 +1,28 @@
-# Awesome [Gemini Code Assist (formerly Duet AI for Developers)](https://cloud.google.com/products/gemini/code-assist) in Google Cloud.
+# Awesome [Gemini for Google Cloud](https://cloud.google.com/products/gemini)
 
-> A curated list of resources about all things [Gemini Code Assist (formerly Duet AI for Developers)](https://cloud.google.com/products/gemini/code-assist). Feel free to send Pull Requests!
+> A curated list of resources about all things [Gemini for Google Cloud](https://cloud.google.com/products/gemini). Feel free to send Pull Requests!
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project and [awesome Cloud Run](https://github.com/steren/awesome-cloud-run) list project.*
 
 *Legend*: 📙: doc, 📰: article, 📦: sample, 🎬: video, 🖼️: slides, ✏️: interactive tutorial, :headphones: : audio, 🛠️: tool
 
-## Documentation
+## Product pages
 
-* 📙 [Home](https://cloud.google.com/products/gemini/code-assist)
-* 📙 [Official Documentation](https://cloud.google.com/gemini/docs)
-* 📙 [Duet AI in Google Cloud Overview](https://cloud.google.com/gemini/docs/codeassist/overview)
+* 📙 [Home - Gemini for Google Cloud](https://cloud.google.com/products/gemini)
+* 📙 [Gemini Code Assist](https://cloud.google.com/products/gemini/code-assist)
+* 📙 [Gemini Cloud Assist](https://cloud.google.com/products/gemini/cloud-assist)
+* 📙 [Gemini in Security](https://cloud.google.com/security/ai)
+* 📙 [Gemini in Databases](https://cloud.google.com/products/gemini/databases)
+* 📙 Data Analytics
+  * [Gemini in BigQuery](https://cloud.google.com/gemini/docs/bigquery/overview)
 
-## Setup Gemini Code Assist for a Project
-* 📙 [Setup Instructions](https://cloud.google.com/duet-ai/docs/discover/set-up-duet-ai)
-* 📙 [Duet AI Administration - Add/Edit Subscriptions](https://cloud.google.com/duet-ai/docs/admin)
-* 📙 [Troubleshoot Setup Issues](https://cloud.google.com/duet-ai/docs/support/troubleshoot-setup)
+## Setup Gemini for a Project
+* 📙 [Try Gemini in Cloud Console](https://cloud.google.com/gemini/docs/quickstart)
+* 📙 [Set up Gemini Code Assist for a project](https://cloud.google.com/gemini/docs/discover/set-up-gemini)
+* 📙 [Set up Gemini in BigQuery](https://cloud.google.com/gemini/docs/bigquery/set-up-gemini)
+* 📙 [Set up Gemini in Databases](https://cloud.google.com/gemini/docs/databases/set-up-gemini)
+* 📙 [Gemini - Add/Edit Subscriptions](https://cloud.google.com/gemini/docs/admin)
+* 📙 [Troubleshoot Setup Issues](https://cloud.google.com/gemini/docs/support/troubleshoot-setup)
 
 ## Features
 * 📙 [Code Faster with AI Assistance](https://cloud.google.com/duet-ai#code-faster-with-ai-assistance)
@@ -24,7 +31,7 @@
 * 📙 [Accelerate troubleshooting and issue remediation](https://cloud.google.com/duet-ai?hl=en#accelerate-troubleshooting-and-issue-remediation)
 * 📙 [Uplevel coding and cloud knowledge and skill](https://cloud.google.com/duet-ai?hl=en#uplevel-coding-and-cloud-knowledge-and-skill)
 
-### Gemini Code Assist Use cases and Quickstarts
+### Gemini for Google Cloud Use cases and Quickstarts
 * ✏️ [Try Duet AI in the Google Cloud console](https://cloud.google.com/duet-ai/docs/quickstart)
 * ✏️ [Analyze data with Duet AI assistance](https://cloud.google.com/duet-ai/docs/use-cases/analyze-data-duet-ai)
 * ✏️ [Develop a Python App](https://cloud.google.com/duet-ai/docs/use-cases/python-developer-duet-ai)
@@ -38,7 +45,7 @@
 * ✏️ **Preview** [Cloud Spanner - Write SQL with Duet AI assistance](https://cloud.google.com/spanner/docs/write-sql-duet-ai)
 
 ## Release Notes
-* 📙 [Release Notes](https://cloud.google.com/duet-ai/docs/release-notes)
+* 📙 [Release Notes](https://cloud.google.com/gemini/docs/release-notes)
 
 ## Gemini Code Assist - Data Governance/Certifications/Citations
 * 📙 [How Duet AI in Google Cloud uses your data](https://cloud.google.com/duet-ai/docs/discover/data-governance)
@@ -46,17 +53,17 @@
 * 📙 [Duet AI in Google Cloud and responsible AI](https://cloud.google.com/duet-ai/docs/discover/responsible-ai)
 * 📙 [Certifications for Duet AI | Google Cloud](https://cloud.google.com/duet-ai/docs/discover/certifications)
 
-## Duet AI - Programming Languages/Tooling support, Quotas/Limits, Locations and more
-* 📙 [Supported coding languages and interfaces | Duet AI | Google Cloud](https://cloud.google.com/duet-ai/docs/discover/supported-languages)
-* 📙 [Quotas and limits | Duet AI | Google Cloud](https://cloud.google.com/duet-ai/docs/quotas)
-* 📙 [Duet AI locations | Google Cloud](https://cloud.google.com/duet-ai/docs/locations)
+## Gemini - Programming Languages/Tooling support, Quotas/Limits, Locations and more
+* 📙 [Gemini Code Assist - Supported coding languages and interfaces](https://cloud.google.com/gemini/docs/codeassist/supported-languages)
+* 📙 [Quotas and limits | Gemini for Google Cloud](https://cloud.google.com/gemini/docs/quotas)
+* 📙 [Locations | Gemini for Google Cloud](https://cloud.google.com/gemini/docs/locations)
 * 📙 [Provide Duet AI feedback | Google Cloud](https://cloud.google.com/duet-ai/docs/support/feedback)
 
-## Gemini Code Assist - Prompt Techniques
-* 📙 [Write Better Prompts](https://cloud.google.com/duet-ai/docs/discover/write-prompts)
+## Gemini - Prompt Techniques
+* 📙 [Write Better Prompts](https://cloud.google.com/gemini/docs/discover/write-prompts)
 
 ## Pricing
-* 📙 [Pricing](https://cloud.google.com/duet-ai/pricing)
+* 📙 [Pricing](https://cloud.google.com/products/gemini/pricing)
 
 ## Codelabs
 * 📦+✏️ [A Tour of Duet AI for Developers](https://codelabs.developers.google.com/codelabs/cloud-developer-duetai?hl=en)
