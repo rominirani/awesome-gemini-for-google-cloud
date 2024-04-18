@@ -37,7 +37,7 @@
   * [Guided operations and troubleshooting](https://cloud.google.com/products/gemini/cloud-assist?e=48754805&hl=en#guided-operations-and-troubleshooting)
   * [Tailored optimizations](https://cloud.google.com/products/gemini/cloud-assist?e=48754805&hl=en#tailored-optimizations)
 
-### Gemini for Google Cloud Use cases and Quickstarts
+## Gemini for Google Cloud Use cases and Quickstarts
 * ✏️ [Try Gemini in Cloud Console](https://cloud.google.com/gemini/docs/quickstart)
 * ✏️ [Analyze data](https://cloud.google.com/gemini/docs/use-cases/analyze-data-gemini)
 * ✏️ [Develop a Python App](https://cloud.google.com/gemini/docs/use-cases/python-developer-gemini)
@@ -101,8 +101,6 @@
 * 📰 [Ten new generative AI trainings to upskill in 2024 with Duet AI](https://cloud.google.com/blog/topics/training-certifications/ten-new-generative-ai-trainings-to-upskill-in-2024-with-duet-ai)
 
 ## Videos (Google Channels)
-* 🎬 [Introducing Duet AI for Google Cloud](https://www.youtube.com/watch?v=g5TwQx60NXs)
-* 🎬 [Generative AI on Google Cloud (Next ‘23 Rewind)](https://www.youtube.com/watch?v=BWUuj3J_414)
 * 🎬 [AI and Machine Learning on Google Cloud](https://www.youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn)
 * 🎬 [Getting Started with Duet AI Playlist](https://www.youtube.com/playlist?list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4)
      * 🎬 [Using Duet AI to speed up development](https://www.youtube.com/watch?v=yGCggGLgROI&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=2)
