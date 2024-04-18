@@ -1,6 +1,6 @@
-# Awesome [Duet AI](https://cloud.google.com/duet-ai?hl=en) in Google Cloud.
+# Awesome [Gemini Code Assist (formerly Duet AI for Developers)](https://cloud.google.com/products/gemini/code-assist) in Google Cloud.
 
-> A curated list of resources about all things [Duet AI](https://cloud.google.com/duet-ai/). Feel free to send Pull Requests!
+> A curated list of resources about all things [Gemini Code Assist (formerly Duet AI for Developers)](https://cloud.google.com/products/gemini/code-assist). Feel free to send Pull Requests!
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project and [awesome Cloud Run](https://github.com/steren/awesome-cloud-run) list project.*
 
