@@ -70,8 +70,7 @@
 
 ## Pricing
 * 📙 [Pricing](https://cloud.google.com/products/gemini/pricing)
-* 📙 [Gemini Code Assist](https://cloud.google.com/products/gemini/code-assist?e=48754805&hl=en#pricing)
-
+  
 ## Codelabs
 * 📦+✏️ [Supercharge your development workflow with Gemini Code Assist](https://codelabs.developers.google.com/codelabs/cloud-code-assist-sdlc?hl=en#0)
 * 📦+✏️ [A Tour of Duet AI for Developers](https://codelabs.developers.google.com/codelabs/cloud-developer-duetai?hl=en)
