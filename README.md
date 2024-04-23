@@ -101,13 +101,12 @@
 
 ## Videos (Next '24)
 * 🎬 [Developer Keynote](https://www.youtube.com/watch?v=KMH5OcW5UYw)
-* 🎬 [Get developer assistance customized to your organization code with Gemini](https://www.youtube.com/watch?v=ynFU9cWVo20)
-* 🎬 [Supercharge your development workflow with Gemini](https://www.youtube.com/watch?v=Hjm1iVtCV1g)
-* 🎬 [Accelerate software delivery with Gemini and Code Transformations](https://www.youtube.com/watch?v=oTaerIGxt68)
 * 🎬 [Supercharge app development and developer productivity with generative AI](https://www.youtube.com/watch?v=WJlncpiz-90)
+* 🎬 [Get developer assistance customized to your organization code with Gemini](https://www.youtube.com/watch?v=ynFU9cWVo20)
+* 🎬 [Supercharge your development workflow with Gemini Code Assist](https://www.youtube.com/watch?v=Hjm1iVtCV1g)
+* 🎬 [Accelerate software delivery with Gemini and Code Transformations](https://www.youtube.com/watch?v=oTaerIGxt68)
 * 🎬 [Secure your generative AI developer workflow with Snyk and Google Cloud](https://www.youtube.com/watch?v=oN4fp4PY7BQ)
 * 🎬 [How to leave the office two hours early with Gemini in the Cloud Console](https://www.youtube.com/watch?v=19eDgLcv3Qs)
-* 🎬 []()
   
 ## Videos (Google Channels)
 * 🎬 [AI and Machine Learning on Google Cloud](https://www.youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn)
