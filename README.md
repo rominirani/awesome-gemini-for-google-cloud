@@ -86,6 +86,7 @@
 
 ## Courses 
 * 📦+✏️ [Gemini for Google Cloud - Learning Path](https://www.cloudskillsboost.google/paths/236)
+* 📦+✏️ [Gemini courses on LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=gemini)
 
 ## Blogs (Google Channels)(Updated from announcements at Google Cloud NEXT '24 only)
 * 📰 [Powering Google Cloud with Gemini](https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-google-cloud-is-here?e=48754805)
