@@ -88,6 +88,9 @@
 * 📦+✏️ [Gemini for Google Cloud - Learning Path](https://www.cloudskillsboost.google/paths/236)
 * 📦+✏️ [Gemini courses on LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=gemini)
 
+## Repositories
+* 📦+✏️ [Gemini Code Assist Tour](https://github.com/meteatamel/gemini-code-assist-tour/tree/main)
+
 ## Blogs (Google Channels)(Updated from announcements at Google Cloud NEXT '24 only)
 * 📰 [Powering Google Cloud with Gemini](https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-google-cloud-is-here?e=48754805)
 * 📰 [Ushering in a new era for app developers](https://cloud.google.com/blog/products/application-development/gen-ai-and-app-development-tools-and-partnerships?e=48754805)
@@ -148,6 +151,8 @@
 * 🎬 [1/11/2024 - Generative AI in Action: Real World Use Cases for Duet AI and BigQuery Studio](https://www.youtube.com/watch?v=KDBhlpLOTvY)
 
 ## Community Blogs
+* 📰 [A Tour of Gemini Code Assist — Slides and Demos](https://medium.com/google-cloud/a-tour-of-gemini-code-assist-slides-and-demos-dbe00fc109c7)
+* 📰 [Using Gemini to help write Synthetic Monitoring tests in Google Cloud](https://medium.com/google-cloud/using-gemini-to-help-write-synthetic-monitoring-tests-in-google-cloud-359561a23230)
 * 📰 [Duet AI for Developers using VSCode](https://medium.com/@larry_nguyen/duet-ai-for-developers-using-vscode-e8315260bb9b)
 * 📰 [Creating Worlds, One Line at a Time: The Power of Duet AI-Generative AI for Developers](https://medium.com/@amaliasonia3/creating-worlds-one-line-at-a-time-the-power-of-duet-ai-generative-ai-for-developers-3e5f13f9f434)
 * 📰 [Test-Driven Development with Java, Spring Boot and Duet AI in GCP](https://medium.com/google-cloud/test-driven-development-with-java-spring-boot-and-duet-ai-in-gcp-3bb6fd4d0822)
