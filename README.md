@@ -178,6 +178,9 @@
 * 📰 [Data Duets with BigQuery and Gen AI | by Ravi Manjunatha | Google Cloud - Community | Oct, 2023 | Medium](https://medium.com/google-cloud/data-duets-with-bigquery-and-gen-ai-5bc0f5081b25)
 * 📰 [Maximizing Efficiency with Google Duet AI: A Comprehensive Guide | by Jitendra Gupta| Dec, 2023 | (substack.com)](https://cloudexpertshub.substack.com/p/maximizing-efficiency-with-google)
 * 📰 [Navigating GKE with Duet AI: Simplifying Kubernetes Commands | by Jitendra Gupta | Dec, 2023 | Medium](https://medium.com/@jitu028/navigating-gke-with-duet-ai-simplifying-kubernetes-commands-695a0ad4f930)
+* 📰 [How to create a text summarizer using Gemini over Vertex AI with Node.js a step-by-step guide - Part 1](https://geshan.com.np/blog/2024/02/gemini-vertex-ai-nodejs/)
+* 📰 [How to create a text summarizer API using Gemini on Vertex AI with Node.js a step-by-step guide - Part 2](https://geshan.com.np/blog/2024/02/gemini-vertex-ai-nodejs-api/)
+* 📰 [How to write and deploy a basic Node.js API with Duet AI on VS Code a step-by-step guide](https://geshan.com.np/blog/2023/12/nodejs-duet-ai-vs-code/)
 
 ## Community Videos
 * 🎬 [Duet AI Playbook Series - Prasanjit Singh](https://www.youtube.com/watch?v=Q6lUpRkk-eI&list=UULFPTgt4Wo0MAnuzNEEZlk90A)
