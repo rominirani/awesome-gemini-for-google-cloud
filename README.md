@@ -152,6 +152,10 @@
 * 🎬 [1/11/2024 - Generative AI in Action: Real World Use Cases for Duet AI and BigQuery Studio](https://www.youtube.com/watch?v=KDBhlpLOTvY)
 
 ## Community Blogs
+* 📰 [Helm charts and Gemini Code Assist](https://medium.com/@arjun.vijay20/helm-charts-and-gemini-code-assist-3cf31b1a1be9)
+* 📰 [How Gemini Code Assist Build High-Quality APIs with AI](https://medium.com/@agarapuramesh/how-gemini-code-assist-build-high-quality-apis-with-ai-16505d4748cd)
+* 📰 [Unlocking the Power of Gemini in BigQuery](https://towardsdev.com/unlocking-the-power-of-gemini-in-bigquery-da4310833fc1)
+* 📰 [How To Build Text-to-SQL App Using Google Gemini In a Few Lines of Code](https://ai.gopubby.com/how-to-build-text-to-sql-app-using-google-gemini-in-a-few-lines-of-code-ca3cd2796882)
 * 📰 [A Tour of Gemini Code Assist — Slides and Demos](https://medium.com/google-cloud/a-tour-of-gemini-code-assist-slides-and-demos-dbe00fc109c7)
 * 📰 [Using Gemini to help write Synthetic Monitoring tests in Google Cloud](https://medium.com/google-cloud/using-gemini-to-help-write-synthetic-monitoring-tests-in-google-cloud-359561a23230)
 * 📰 [Duet AI for Developers using VSCode](https://medium.com/@larry_nguyen/duet-ai-for-developers-using-vscode-e8315260bb9b)
