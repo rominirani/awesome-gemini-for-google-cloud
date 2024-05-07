@@ -72,6 +72,14 @@
 * 📙 [Pricing](https://cloud.google.com/products/gemini/pricing)
   
 ## Codelabs
+* 📦+✏️ [Draw a Website:Transform your imagination into a website using Gemini models!](https://codelabs.developers.google.com/draw-a-website-gemini?hl=en#0)
+* 📦+✏️ [Deterministic generative AI with Gemini function calling in Java](https://codelabs.developers.google.com/gemini-function-calling-java?hl=en#0)
+* 📦+✏️ [Build a Patent Search App with Spanner, Vector Search & Gemini 1.0 Pro!](https://codelabs.developers.google.com/patent-search-spanner-gemini?hl=en#0)
+* 📦+✏️ [In-Place LLM Insights:BigQuery & Gemini for Structured & Unstructured Data Analytics](https://codelabs.developers.google.com/inplace-llm-bq-gemini?hl=en#0)
+* 📦+✏️ [Automate Google Workspace tasks with the Gemini API](https://codelabs.developers.google.com/codelabs/gemini-workspace?hl=en#10)
+* 📦+✏️ [Troubleshoot with Gemini CodeLab](https://codelabs.developers.google.com/codelabs/troubleshooting-with-gemini?hl=en#0)
+* 📦+✏️ [Master Data Management Simplified:Match & Merge with Generative AI!](https://codelabs.developers.google.com/mdm-with-gemini?hl=en#0)
+* 📦+✏️ [Writing Synthetic Monitoring Tests for your services using Gemini](https://codelabs.developers.google.com/codelabs/gemini-synthetic-monitoring?hl=en#0)
 * 📦+✏️ [Supercharge your development workflow with Gemini Code Assist](https://codelabs.developers.google.com/codelabs/cloud-code-assist-sdlc?hl=en#0)
 * 📦+✏️ [Using Gemini Code Assist to explore and enhance AI Summarization Jump Start Solution](https://codelabs.developers.google.com/codelabs/gemini-code-assist-developer-aisummarization-jss?hl=en#0)
 * 📦+✏️ [A Tour of Gemini Code Assist (formerly Duet AI) for Developers](https://codelabs.developers.google.com/codelabs/cloud-developer-duetai?hl=en)
