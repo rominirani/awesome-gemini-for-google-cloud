@@ -117,7 +117,7 @@
 * 📰 [Gemini in Databases — supercharge database development and management](https://cloud.google.com/blog/products/databases/a-deep-dive-into-gemini-in-databases?e=48754805)
 * 📰 [Introducing Gemini in Looker to bring intelligent AI-powered BI to everyone](https://cloud.google.com/blog/products/data-analytics/introducing-gemini-in-looker-at-next24?e=48754805)
 * 📰 [Make Google part of your security team anywhere you operate, with defenses supercharged by AI](https://cloud.google.com/blog/products/identity-security/make-google-part-of-your-security-team-supercharged-by-ai-next24?e=48754805)
-* [How Gemini in BigQuery accelerates data and analytics workflows with AI](https://cloud.google.com/blog/products/data-analytics/introducing-gemini-in-bigquery-at-next24?e=48754805)
+* 📰 [How Gemini in BigQuery accelerates data and analytics workflows with AI](https://cloud.google.com/blog/products/data-analytics/introducing-gemini-in-bigquery-at-next24?e=48754805)
 * 📰 [Ten new generative AI trainings to upskill in 2024 with Duet AI](https://cloud.google.com/blog/topics/training-certifications/ten-new-generative-ai-trainings-to-upskill-in-2024-with-duet-ai)
 * 🎬 [Developer Keynote](https://www.youtube.com/watch?v=KMH5OcW5UYw)
 * 🎬 [Supercharge app development and developer productivity with generative AI](https://www.youtube.com/watch?v=WJlncpiz-90)
