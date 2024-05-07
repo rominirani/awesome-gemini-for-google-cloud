@@ -94,7 +94,15 @@
 * 📦+✏️ [Bookshelf Analytics: Use Gemini to build a Java Cloud Run Application that takes BigQuery data to the web](https://codelabs.developers.google.com/bookshelf-duetai-web-cloudrun?hl=en)
 
 ## Courses 
-* 📦+✏️ [Gemini for Google Cloud - Learning Path](https://www.cloudskillsboost.google/paths/236)
+* 📦+✏️ [Gemini for Google Cloud - Learning Path](https://www.cloudskillsboost.google/paths/236): The Gemini for Google Cloud learning path provides examples of how Gemini can help make engineers of all types more efficient in their daily activities.
+  - [Gemini for Application Developers](https://www.cloudskillsboost.google/paths/236/course_sessions/7024601/labs/448290)
+  - [Gemini for Cloud Architects](https://www.cloudskillsboost.google/paths/236/course_templates/878)
+  - [Gemini for Data Scientists and Analysts](https://www.cloudskillsboost.google/paths/236/course_templates/879)
+  - [Gemini for Network Engineers](https://www.cloudskillsboost.google/paths/236/course_templates/884)
+  - [Gemini for Security Engineers](https://www.cloudskillsboost.google/paths/236/course_templates/886)
+  - [Gemini for DevOps Engineers](https://www.cloudskillsboost.google/paths/236/course_templates/882)
+  - [Gemini for end-to-end SDLC](https://www.cloudskillsboost.google/paths/236/course_sessions/11762414/labs/448528)
+  - [Develop Gen AI Apps with Gemini and Streamlit](https://www.cloudskillsboost.google/paths/236/course_templates/978)
 * 📦+✏️ [Gemini courses on LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=gemini)
 
 ## Repositories
@@ -120,6 +128,8 @@
 * 🎬 [Accelerate software delivery with Gemini and Code Transformations](https://www.youtube.com/watch?v=oTaerIGxt68)
 * 🎬 [Secure your generative AI developer workflow with Snyk and Google Cloud](https://www.youtube.com/watch?v=oN4fp4PY7BQ)
 * 🎬 [How to leave the office two hours early with Gemini in the Cloud Console](https://www.youtube.com/watch?v=19eDgLcv3Qs)
+* 🎬 [Generative AI - Google Cloud Next 2024](https://www.youtube.com/watch?v=PyM3Vt6s1GI&list=PLIivdWyY5sqLHERDVwseyPGka96mCiwpq)
+* 🎬 [AI and Machine Learning with Google Cloud](https://www.youtube.com/watch?v=V6YTS5aofqU&list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn)
   
 ## Videos (Google Channels)
 * 🎬 [AI and Machine Learning on Google Cloud](https://www.youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn)
@@ -135,15 +145,15 @@
      * 🎬 [The future of software development with Duet AI](https://www.youtube.com/watch?v=MX1h4GGiESY&list=PLIivdWyY5sqJCzQvzUEffuPEzFOdUfbG4&index=9)
      * 🎬 [Duet AI for navigating security decisions](https://www.youtube.com/watch?v=MhTfXxzY41w)
      * 🎬 [Designing an LLM connected model with Duet AI](https://www.youtube.com/watch?v=-pA01nGXwSI)
-* 🎬 Duet AI for XYZ Series
-     * 🎬 [Duet AI for Data Professionals](https://www.youtube.com/watch?v=mpm8cNU8yJE)
-     * 🎬 [Duet AI for DevOps Engineers](https://www.youtube.com/watch?v=KE03YFNLDFo)
-     * 🎬 [Duet AI for Cyber Security](https://www.youtube.com/watch?v=kD_to1uSlHQ)
-     * 🎬 [Duet AI for Developers](https://www.youtube.com/watch?v=zPqCad9HBxg)
-     * 🎬 [Duet AI for Network Engineers](https://www.youtube.com/watch?v=fZmTU748YsM)
-     * 🎬 [Duet AI for Cloud Architects](https://www.youtube.com/watch?v=8PPR-5BlSus)
-     * 🎬 [Duet AI for Cloud Database Engineers](https://www.youtube.com/watch?v=lv4yWjh-uU8)
-     * 🎬 [Duet AI for Site Reliability Engineers](https://www.youtube.com/watch?v=RBZ9esu9zBA)
+* 🎬 [Gemini for Google Cloud - Playlist](https://www.youtube.com/playlist?list=PLBgogxgQVM9vMyRWTvDqxc-N5pYp-a98F)
+  - [Gemini for Application Developers](https://www.youtube.com/watch?v=WsXVGr0Q3C4&list=PLBgogxgQVM9vMyRWTvDqxc-N5pYp-a98F&index=1&pp=iAQB)
+  - [Gemini for Cloud Architects](https://www.youtube.com/watch?v=y-dlxWHtfhQ&list=PLBgogxgQVM9vMyRWTvDqxc-N5pYp-a98F&index=2&pp=iAQB)
+  - [Gemini for Data Scientists and Analysts](https://www.youtube.com/watch?v=0H7brO5JeCQ&list=PLBgogxgQVM9vMyRWTvDqxc-N5pYp-a98F&index=3&pp=iAQB)
+  - [Gemini for Network Engineers](https://www.youtube.com/watch?v=RHla4EEleCE&list=PLBgogxgQVM9vMyRWTvDqxc-N5pYp-a98F&index=4&pp=iAQB)
+  - [Gemini for Security Engineers](https://www.youtube.com/watch?v=08xeOzUUL-g&list=PLBgogxgQVM9vMyRWTvDqxc-N5pYp-a98F&index=5&pp=iAQB)
+  - [Gemini for Cloud DevOps Engineers](https://www.youtube.com/watch?v=zaVTJVwtyzI&list=PLBgogxgQVM9vMyRWTvDqxc-N5pYp-a98F&index=6&pp=iAQB)
+  - [Gemini end-to-end Software Development Lifecycle](https://www.youtube.com/watch?v=h41eoDraUzE&list=PLBgogxgQVM9vMyRWTvDqxc-N5pYp-a98F&index=7&pp=iAQB)
+  - [Technical training courses in Generative AI from Google Cloud](https://www.youtube.com/watch?v=5FIlXPSmUUc&list=PLBgogxgQVM9vMyRWTvDqxc-N5pYp-a98F&index=8&pp=iAQB)
 * 🎬 [How does Duet AI boost productivity?](https://youtu.be/pt4as1o68co?si=ucWlp11z9UsF1FAl)
 * 🎬 [Duet AI: Code completion and generation](https://www.youtube.com/watch?v=tLJ133axB5w)
 * 🎬 [How Duet AI empowers developers of all levels](https://www.youtube.com/watch?v=JZMbqEYqxAs)
