@@ -32,7 +32,7 @@
   * 📙 [Automate developer inner loop tasks](https://cloud.google.com/products/gemini/code-assist?e=48754805&hl=en#automate-developer-inner-loop-tasks)
   * 📙 [Uplevel coding and technical skills](https://cloud.google.com/products/gemini/code-assist?e=48754805&hl=en#uplevel-coding-and-technical-skills)
   * 📙 [Build APIs and automations without special expertise](https://cloud.google.com/products/gemini/code-assist?e=48754805&hl=en#build-apis-and-automations-without-special-expertise)
-* 📙 Gemini Code Assist
+* 📙 Gemini Cloud Assist
   * [Goal-driven design](https://cloud.google.com/products/gemini/cloud-assist?e=48754805&hl=en#goal-driven-design)
   * [Guided operations and troubleshooting](https://cloud.google.com/products/gemini/cloud-assist?e=48754805&hl=en#guided-operations-and-troubleshooting)
   * [Tailored optimizations](https://cloud.google.com/products/gemini/cloud-assist?e=48754805&hl=en#tailored-optimizations)
