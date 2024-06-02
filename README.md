@@ -72,6 +72,11 @@
 * 📙 [Pricing](https://cloud.google.com/products/gemini/pricing)
   
 ## Codelabs
+* 📦+✏️ [Build gen AI features powered by your data with Firebase Genkit](https://firebase.google.com/codelabs/ai-genkit-rag?hl=en#0)
+* 📦+✏️ [Build AI-powered web apps with Firebase Extensions for the Gemini API](https://firebase.google.com/codelabs/gemini-api-extensions-web?hl=en#0)
+* 📦+✏️ [Build a Q&A App with Multi-Modal RAG using Gemini Pro](https://codelabs.developers.google.com/multimodal-rag-gemini?hl=en#0)
+* 📦+✏️ [How to Interact with APIs Using Function Calling in Gemini](https://codelabs.developers.google.com/codelabs/gemini-function-calling?hl=en#0)
+* 📦+✏️ [Gemini in Java with Vertex AI and LangChain4j](https://codelabs.developers.google.com/codelabs/gemini-java-developers?hl=en#0)
 * 📦+✏️ [Draw a Website:Transform your imagination into a website using Gemini models!](https://codelabs.developers.google.com/draw-a-website-gemini?hl=en#0)
 * 📦+✏️ [Deterministic generative AI with Gemini function calling in Java](https://codelabs.developers.google.com/gemini-function-calling-java?hl=en#0)
 * 📦+✏️ [Build a Patent Search App with Spanner, Vector Search & Gemini 1.0 Pro!](https://codelabs.developers.google.com/patent-search-spanner-gemini?hl=en#0)
