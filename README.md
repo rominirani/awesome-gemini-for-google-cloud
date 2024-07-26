@@ -109,6 +109,7 @@
   - [Gemini for end-to-end SDLC](https://www.cloudskillsboost.google/paths/236/course_sessions/11762414/labs/448528)
   - [Develop Gen AI Apps with Gemini and Streamlit](https://www.cloudskillsboost.google/paths/236/course_templates/978)
 * 📦+✏️ [Gemini courses on LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=gemini)
+* 📦+✏️ [Gemini API by Google - Udacity](https://www.udacity.com/enrollment/cd13416)
 
 ## Repositories
 * 📦+✏️ [Gemini Code Assist Tour](https://github.com/meteatamel/gemini-code-assist-tour/tree/main)
