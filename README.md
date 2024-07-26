@@ -135,6 +135,10 @@
 * 🎬 [AI and Machine Learning with Google Cloud](https://www.youtube.com/watch?v=V6YTS5aofqU&list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn)
   
 ## Videos (Google Channels)
+* 🎬 [Code Transformations with Gemini Code Assist Playlist](https://www.youtube.com/playlist?list=PLIivdWyY5sqLENRiwuEvbIIM05C9mZSF_)
+  - [Troubleshoot and improve code readability with Gemini Code Assist](https://www.youtube.com/watch?v=_EEGRQseO9E&list=PLIivdWyY5sqLENRiwuEvbIIM05C9mZSF_&index=1)
+  - [https://www.youtube.com/watch?v=9vPJf_nEXkM&list=PLIivdWyY5sqLENRiwuEvbIIM05C9mZSF_&index=2](https://www.youtube.com/watch?v=9vPJf_nEXkM&list=PLIivdWyY5sqLENRiwuEvbIIM05C9mZSF_&index=2)
+  - [How to prompt Gemini Code Assist](https://www.youtube.com/watch?v=Jr2nze3bwd4&list=PLIivdWyY5sqLENRiwuEvbIIM05C9mZSF_&index=3)
 * 🎬 [AI and Machine Learning on Google Cloud](https://www.youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn)
 * 🎬 [Gemini for Google Cloud - Playlist](https://www.youtube.com/playlist?list=PLBgogxgQVM9vMyRWTvDqxc-N5pYp-a98F)
   - [Gemini for Application Developers](https://www.youtube.com/watch?v=WsXVGr0Q3C4&list=PLBgogxgQVM9vMyRWTvDqxc-N5pYp-a98F&index=1&pp=iAQB)
