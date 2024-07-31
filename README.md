@@ -13,8 +13,10 @@
 * 📙 [Home - Gemini for Google Cloud](https://cloud.google.com/products/gemini)
 * 📙 [Gemini Code Assist](https://cloud.google.com/products/gemini/code-assist)
 * 📙 [Gemini Cloud Assist](https://cloud.google.com/products/gemini/cloud-assist)
-* 📙 [Gemini in Security](https://cloud.google.com/security/ai)
+* 📙 [Gemini in Security Command Center](https://cloud.google.com/gemini/docs/security-command-center/overview)
 * 📙 [Gemini in Databases](https://cloud.google.com/products/gemini/databases)
+* 📙 [Gemini in Looker](https://cloud.google.com/gemini/docs/looker/overview)
+* 📙 [Gemini in Colab Enterprise](https://cloud.google.com/gemini/docs/colab/overview)
 * 📙 Data Analytics
   * [Gemini in BigQuery](https://cloud.google.com/gemini/docs/bigquery/overview)
 
