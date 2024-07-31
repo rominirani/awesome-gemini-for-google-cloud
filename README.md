@@ -17,8 +17,7 @@
 * 📙 [Gemini in Databases](https://cloud.google.com/products/gemini/databases)
 * 📙 [Gemini in Looker](https://cloud.google.com/gemini/docs/looker/overview)
 * 📙 [Gemini in Colab Enterprise](https://cloud.google.com/gemini/docs/colab/overview)
-* 📙 Data Analytics
-  * [Gemini in BigQuery](https://cloud.google.com/gemini/docs/bigquery/overview)
+* 📙 [Gemini in BigQuery](https://cloud.google.com/gemini/docs/bigquery/overview)
 
 ## Setup Gemini for a Project
 * 📙 [Try Gemini in Cloud Console](https://cloud.google.com/gemini/docs/quickstart)
