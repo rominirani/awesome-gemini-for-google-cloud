@@ -27,22 +27,6 @@
 * 📙 [Gemini in Colab Enterprise](https://cloud.google.com/gemini/docs/colab/overview)
 * 📙 [Gemini in BigQuery](https://cloud.google.com/gemini/docs/bigquery/overview)
 
-## Gemini - Data Governance/Certifications/Citations
-* 📙 [How Gemini works](https://cloud.google.com/gemini/docs/discover/works)
-* 📙 [How Gemini for Google Cloud uses your data](https://cloud.google.com/gemini/docs/discover/data-governance)
-* 📙 [Gemini for Google Cloud and responsible AI](https://cloud.google.com/gemini/docs/discover/responsible-ai)
-* 📙 [Certifications for Gemini for Google Cloud](https://cloud.google.com/gemini/docs/discover/certifications)
-
-## Gemini - Programming Languages/Tooling support, Quotas/Limits, Locations and more
-* 📙 [Gemini Code Assist - Supported coding languages and interfaces](https://cloud.google.com/gemini/docs/codeassist/supported-languages)
-* 📙 [Quotas and limits | Gemini for Google Cloud](https://cloud.google.com/gemini/docs/quotas)
-* 📙 [Locations | Gemini for Google Cloud](https://cloud.google.com/gemini/docs/locations)
-
-## Pricing
-* 📙 [Pricing](https://cloud.google.com/products/gemini/pricing)
-  * 📙 [Gemini Code Assist Pricing](https://cloud.google.com/products/gemini/pricing#pricing_overview)
-  * 📙 [Gemini in BigQuery Pricing](https://cloud.google.com/products/gemini/pricing#gemini-in-bigquery-pricing)
-       
 ## Setup Gemini for Google Cloud
 * 📙 Subscriptions and Licenses
   * 📙 [Gemini for Google Cloud - Add or Change Subscriptions](https://cloud.google.com/gemini/docs/admin)
@@ -61,14 +45,6 @@
   * 📙 [Set up Gemini in Colab](https://cloud.google.com/gemini/docs/colab/set-up-gemini)
   * 📙 [Set up Gemini in Databases](https://cloud.google.com/gemini/docs/databases/set-up-gemini)
 
-## Release Notes
-* 📙 [Gemini for Google Cloud - Release Notes](https://cloud.google.com/gemini/docs/release-notes)
-* 📙 [Gemini Code Assist - Release Notes](https://cloud.google.com/gemini/docs/codeassist/release-notes)
-* 📙 [Feature Deprecations](https://cloud.google.com/gemini/docs/deprecations/features)
-
-## Prompt Techniques
-* 📙 [Write Better Prompts](https://cloud.google.com/gemini/docs/discover/write-prompts)
-
 ## Gemini for Google Cloud Use cases and Quickstarts
 * ✏️ [Try Gemini in Cloud Console](https://cloud.google.com/gemini/docs/quickstart)
 * Gemini Cloud Assist
@@ -85,6 +61,30 @@
   * ✏️ [Write code in a Colab Enterprise notebook with Gemini assistance](https://cloud.google.com/colab/docs/use-code-completion)
 * Gemini in Looker
   * ✏️ [Gemini Assistance in Looker](https://cloud.google.com/gemini/docs/looker/overview#gemini-interact) 
+
+## Gemini - Data Governance/Certifications/Citations
+* 📙 [How Gemini works](https://cloud.google.com/gemini/docs/discover/works)
+* 📙 [How Gemini for Google Cloud uses your data](https://cloud.google.com/gemini/docs/discover/data-governance)
+* 📙 [Gemini for Google Cloud and responsible AI](https://cloud.google.com/gemini/docs/discover/responsible-ai)
+* 📙 [Certifications for Gemini for Google Cloud](https://cloud.google.com/gemini/docs/discover/certifications)
+
+## Gemini - Programming Languages/Tooling support, Quotas/Limits, Locations and more
+* 📙 [Gemini Code Assist - Supported coding languages and interfaces](https://cloud.google.com/gemini/docs/codeassist/supported-languages)
+* 📙 [Quotas and limits | Gemini for Google Cloud](https://cloud.google.com/gemini/docs/quotas)
+* 📙 [Locations | Gemini for Google Cloud](https://cloud.google.com/gemini/docs/locations)
+
+## Pricing
+* 📙 [Pricing](https://cloud.google.com/products/gemini/pricing)
+  * 📙 [Gemini Code Assist Pricing](https://cloud.google.com/products/gemini/pricing#pricing_overview)
+  * 📙 [Gemini in BigQuery Pricing](https://cloud.google.com/products/gemini/pricing#gemini-in-bigquery-pricing)
+       
+## Release Notes
+* 📙 [Gemini for Google Cloud - Release Notes](https://cloud.google.com/gemini/docs/release-notes)
+* 📙 [Gemini Code Assist - Release Notes](https://cloud.google.com/gemini/docs/codeassist/release-notes)
+* 📙 [Feature Deprecations](https://cloud.google.com/gemini/docs/deprecations/features)
+
+## Prompt Techniques
+* 📙 [Write Better Prompts](https://cloud.google.com/gemini/docs/discover/write-prompts)
 
 ## Courses 
 * 📦+✏️ [Gemini for Google Cloud - Learning Path](https://www.cloudskillsboost.google/paths/236): The Gemini for Google Cloud learning path provides examples of how Gemini can help make engineers of all types more efficient in their daily activities.
