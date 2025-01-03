@@ -33,19 +33,12 @@
 * 📙 [Gemini Code Assist - Supported coding languages and interfaces](https://cloud.google.com/gemini/docs/codeassist/supported-languages)
 * 📙 [Quotas and limits | Gemini for Google Cloud](https://cloud.google.com/gemini/docs/quotas)
 * 📙 [Locations | Gemini for Google Cloud](https://cloud.google.com/gemini/docs/locations)
-* 📙 [Provide Gemini in Google Cloud Feedback](https://cloud.google.com/gemini/docs/support/feedback)
 
 ## Pricing
 * 📙 [Pricing](https://cloud.google.com/products/gemini/pricing)
   * 📙 [Gemini Code Assist Pricing](https://cloud.google.com/products/gemini/pricing#pricing_overview)
   * 📙 [Gemini in BigQuery Pricing](https://cloud.google.com/products/gemini/pricing#gemini-in-bigquery-pricing)
        
-## Release Notes
-* 📙 [Release Notes](https://cloud.google.com/gemini/docs/release-notes)
-
-## Prompt Techniques
-* 📙 [Write Better Prompts](https://cloud.google.com/gemini/docs/discover/write-prompts)
-
 ## Setup Gemini for Google Cloud
 * 📙 Subscriptions and Licenses
   * 📙 [Gemini for Google Cloud - Add or Change Subscriptions](https://cloud.google.com/gemini/docs/admin)
@@ -63,6 +56,14 @@
   * 📙 [Set up Gemini in BigQuery](https://cloud.google.com/gemini/docs/bigquery/set-up-gemini)
   * 📙 [Set up Gemini in Colab](https://cloud.google.com/gemini/docs/colab/set-up-gemini)
   * 📙 [Set up Gemini in Databases](https://cloud.google.com/gemini/docs/databases/set-up-gemini)
+
+## Release Notes
+* 📙 [Gemini for Google Cloud - Release Notes](https://cloud.google.com/gemini/docs/release-notes)
+* 📙 [Gemini Code Assist - Release Notes](https://cloud.google.com/gemini/docs/codeassist/release-notes)
+* 📙 [Feature Deprecations](https://cloud.google.com/gemini/docs/deprecations/features)
+
+## Prompt Techniques
+* 📙 [Write Better Prompts](https://cloud.google.com/gemini/docs/discover/write-prompts)
 
 ## Features
 * 📙 Gemini Code Assist
