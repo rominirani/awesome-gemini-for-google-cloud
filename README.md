@@ -100,6 +100,7 @@
 * 📦+✏️ [Gemini API by Google - Udacity](https://www.udacity.com/enrollment/cd13416)
 
 ## Videos (Google Channels)
+* 🎬 [Code live with Google Cloud](https://www.youtube.com/playlist?list=PLBgogxgQVM9s_KCKZtQDtMVru0IezbRBe)
 * 🎬 [Gemini Code Assist tools: Stay in the flow while coding](https://www.youtube.com/watch?v=ovS7OvwORIo)
 * 🎬 [Gemini for Google Cloud Playlist](https://www.youtube.com/playlist?list=PLIivdWyY5sqLENRiwuEvbIIM05C9mZSF_)
 * 🎬 [What is Google Gemini Code Assist?](https://www.youtube.com/watch?v=L32shIIHm4I)
@@ -118,16 +119,15 @@
 * 📦+✏️ [How to use Duet AI to explore and enhance an existing application](https://codelabs.developers.google.com/codelabs/duet-ai-workshop?hl=en)
 * 📦+✏️ [Introduction to testing with Gemini Code Assist](https://codelabs.developers.google.com/codelabs/testing-with-gemini-code-assist?hl=en#0)
 
-## Community Videos
-* 🎬 [Duet AI Playbook Series - Prasanjit Singh](https://www.youtube.com/watch?v=Q6lUpRkk-eI&list=UULFPTgt4Wo0MAnuzNEEZlk90A)
-* 🎬 [Cloud Code and Duet AI](https://www.youtube.com/watch?v=Ix5-cIWI3x0)
-* 🎬 [Google's Code Copilot (Hands-On with Duet AI for Developers)](https://www.youtube.com/watch?v=k7IUGs8yLhw)
-* 🎬 [Google's Duet AI: A New Challenger to GitHub Co-Pilot?](https://www.youtube.com/watch?v=j0aBI3w7N9c)
-* 🎬 [Duet AI vs GitHub Copilot vs ChatGPT: Direct Testing with Coding Challenges](https://www.youtube.com/watch?v=0i4gOcio-8Y)
-* 🎬 [TDD (Test Driven Development) with Duet as my pair programmer](https://www.youtube.com/watch?v=ArdeZrc8jOk)
-* 🎬 [Getting started with Duet AI | What is Duet AI - Introduction](https://www.youtube.com/watch?v=V_ihyuoaZQ8&pp=ygUTdmlzaGFsIGJ1bGJ1bGUgZHVldA%3D%3D)
-* 🎬 [Unlocking Duet AI in Google Cloud: Your Step-by-Step Guide to Enable Duet AI in Google Cloud](https://www.youtube.com/watch?v=vk8i1UFPsjk&pp=ygUTdmlzaGFsIGJ1bGJ1bGUgZHVldA%3D%3D)
-* 🎬 [Duet AI in Google Cloud Console  | Duet AI](https://www.youtube.com/watch?v=u1Fvoqh0isk&pp=ygUTdmlzaGFsIGJ1bGJ1bGUgZHVldA%3D%3D)
-* 🎬 [Code generation in VScode using Duet AI | Duet AI for VS Code](https://youtu.be/bS4UZkZqpFc?si=05uO-qfXfppXAGO_)
-* 🎬 [Write queries in BigQuery using Duet AI | Duet AI for BigQuery](https://www.youtube.com/watch?v=n0TWMWxd6aE&pp=ygUTdmlzaGFsIGJ1bGJ1bGUgZHVldA%3D%3D)
-
+## Community Articles
+* 📰 https://medium.com/google-cloud/supercharge-your-coding-with-gemini-in-vs-code-ef63ed857104
+* 📰 https://medium.com/google-cloud/lets-make-a-game-how-to-use-generative-ai-tools-for-rapid-prototyping-72876ab0a7af
+* 📰 https://dwdraju.medium.com/gemini-cloud-assist-simplifying-resource-management-on-gcp-11e00573d991
+* 📰 https://medium.com/google-cloud/gemini-code-assist-051f94c78e86
+* 📰 https://medium.com/google-cloud/a-tour-of-gemini-code-assist-slides-and-demos-dbe00fc109c7
+* 📰 https://medium.com/netpremacy-global-services/gemini-code-assist-practical-tips-tricks-for-developers-b2f8eb9c4a07
+* 📰 https://medium.com/google-cloud/codelab-using-gemini-code-assist-to-explore-and-enhance-generative-ai-document-summarization-jump-28c410042544
+* 📰 https://medium.com/@thatsiemguy/creating-an-entity-explorer-widget-in-chronicle-soar-with-gemini-code-assist-9addcdaf915d
+* 📰 https://medium.com/google-cloud/getting-the-most-out-of-gemini-code-assist-6bb87d22336c
+* 📰 https://medium.com/google-cloud/google-gemini-for-network-configuration-assistance-707de8df605d
+* 
