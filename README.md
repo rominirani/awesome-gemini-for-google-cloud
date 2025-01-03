@@ -8,7 +8,7 @@
 
 *Legend*: 📙: doc, 📰: article, 📦: sample, 🎬: video, 🖼️: slides, ✏️: interactive tutorial, :headphones: : audio, 🛠️: tool
 
-## Gemini for Google Cloud - Home, Product Overview and Documentation pages
+## Gemini for Google Cloud - Product Overview and Documentation
 
 * 📙 [Home - Gemini for Google Cloud](https://cloud.google.com/products/gemini)
 * 📙 [Documentation Home Page - Gemini for Google Cloud](https://cloud.google.com/gemini/docs)
