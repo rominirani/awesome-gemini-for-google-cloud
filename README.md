@@ -15,8 +15,10 @@
 * 📙 [Product Overview - Gemini for Google Cloud](https://cloud.google.com/gemini/docs/overview)
 
 ## Gemini for Google Cloud - Product Offerings  
-* 📙 [Gemini Code Assist](https://cloud.google.com/gemini/docs/codeassist/overview)
-* 📙 [Gemini Cloud Assist]
+* 📙 Gemini Cloud Assist
+  * [Product Page](https://cloud.google.com/products/gemini/cloud-assist)
+  * [Docs Overview](https://cloud.google.com/gemini/docs/codeassist/overview)
+* 📙 Gemini Code Assist
   * 📙 [Product Page](https://cloud.google.com/products/gemini/code-assist)
   * 📙 [Docs Overview](https://cloud.google.com/gemini/docs/cloud-assist/overview)
 * 📙 [Gemini in Security Command Center](https://cloud.google.com/gemini/docs/security-command-center/overview)
@@ -66,17 +68,6 @@
 
 ## Prompt Techniques
 * 📙 [Write Better Prompts](https://cloud.google.com/gemini/docs/discover/write-prompts)
-
-## Features
-* 📙 Gemini Code Assist
-  * 📙 [Code Faster with AI Assistance](https://cloud.google.com/products/gemini/code-assist?e=48754805&hl=en#code-faster-with-ai-assistance)
-  * 📙 [Automate developer inner loop tasks](https://cloud.google.com/products/gemini/code-assist?e=48754805&hl=en#automate-developer-inner-loop-tasks)
-  * 📙 [Uplevel coding and technical skills](https://cloud.google.com/products/gemini/code-assist?e=48754805&hl=en#uplevel-coding-and-technical-skills)
-  * 📙 [Build APIs and automations without special expertise](https://cloud.google.com/products/gemini/code-assist?e=48754805&hl=en#build-apis-and-automations-without-special-expertise)
-* 📙 Gemini Cloud Assist
-  * [Goal-driven design](https://cloud.google.com/products/gemini/cloud-assist?e=48754805&hl=en#goal-driven-design)
-  * [Guided operations and troubleshooting](https://cloud.google.com/products/gemini/cloud-assist?e=48754805&hl=en#guided-operations-and-troubleshooting)
-  * [Tailored optimizations](https://cloud.google.com/products/gemini/cloud-assist?e=48754805&hl=en#tailored-optimizations)
 
 ## Gemini for Google Cloud Use cases and Quickstarts
 * ✏️ [Try Gemini in Cloud Console](https://cloud.google.com/gemini/docs/quickstart)
