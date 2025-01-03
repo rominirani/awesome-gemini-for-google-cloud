@@ -23,6 +23,27 @@
 * 📙 [Gemini in Colab Enterprise](https://cloud.google.com/gemini/docs/colab/overview)
 * 📙 [Gemini in BigQuery](https://cloud.google.com/gemini/docs/bigquery/overview)
 
+## Gemini - Data Governance/Certifications/Citations
+* 📙 [How Gemini works](https://cloud.google.com/gemini/docs/discover/works)
+* 📙 [How Gemini for Google Cloud uses your data](https://cloud.google.com/gemini/docs/discover/data-governance)
+* 📙 [Gemini for Google Cloud and responsible AI](https://cloud.google.com/gemini/docs/discover/responsible-ai)
+* 📙 [Certifications for Gemini for Google Cloud](https://cloud.google.com/gemini/docs/discover/certifications)
+
+## Gemini - Programming Languages/Tooling support, Quotas/Limits, Locations and more
+* 📙 [Gemini Code Assist - Supported coding languages and interfaces](https://cloud.google.com/gemini/docs/codeassist/supported-languages)
+* 📙 [Quotas and limits | Gemini for Google Cloud](https://cloud.google.com/gemini/docs/quotas)
+* 📙 [Locations | Gemini for Google Cloud](https://cloud.google.com/gemini/docs/locations)
+* 📙 [Provide Gemini in Google Cloud Feedback](https://cloud.google.com/gemini/docs/support/feedback)
+
+## Release Notes
+* 📙 [Release Notes](https://cloud.google.com/gemini/docs/release-notes)
+
+## Gemini - Prompt Techniques
+* 📙 [Write Better Prompts](https://cloud.google.com/gemini/docs/discover/write-prompts)
+
+## Pricing
+* 📙 [Pricing](https://cloud.google.com/products/gemini/pricing)
+
 ## Setup Gemini for a Project
 * 📙 [Try Gemini in Cloud Console](https://cloud.google.com/gemini/docs/quickstart)
 * 📙 [Set up Gemini Code Assist for a project](https://cloud.google.com/gemini/docs/discover/set-up-gemini)
@@ -54,27 +75,6 @@
 * ✏️ [Write code in a Colab Enterprise notebook with Gemini assistance](https://cloud.google.com/colab/docs/use-code-completion) 
 * ✏️ **Preview** [BigQuery - Write queries with Gemini assistance](https://cloud.google.com/bigquery/docs/write-sql-gemini)
 * ✏️ **Preview** [Cloud Spanner - Write SQL with Gemini assistance](https://cloud.google.com/spanner/docs/write-sql-gemini)
-
-## Release Notes
-* 📙 [Release Notes](https://cloud.google.com/gemini/docs/release-notes)
-
-## Gemini - Data Governance/Certifications/Citations
-* 📙 [How Gemini works](https://cloud.google.com/gemini/docs/discover/works)
-* 📙 [How Gemini for Google Cloud uses your data](https://cloud.google.com/gemini/docs/discover/data-governance)
-* 📙 [Gemini for Google Cloud and responsible AI](https://cloud.google.com/gemini/docs/discover/responsible-ai)
-* 📙 [Certifications for Gemini for Google Cloud](https://cloud.google.com/gemini/docs/discover/certifications)
-
-## Gemini - Programming Languages/Tooling support, Quotas/Limits, Locations and more
-* 📙 [Gemini Code Assist - Supported coding languages and interfaces](https://cloud.google.com/gemini/docs/codeassist/supported-languages)
-* 📙 [Quotas and limits | Gemini for Google Cloud](https://cloud.google.com/gemini/docs/quotas)
-* 📙 [Locations | Gemini for Google Cloud](https://cloud.google.com/gemini/docs/locations)
-* 📙 [Provide Gemini in Google Cloud Feedback](https://cloud.google.com/gemini/docs/support/feedback)
-
-## Gemini - Prompt Techniques
-* 📙 [Write Better Prompts](https://cloud.google.com/gemini/docs/discover/write-prompts)
-
-## Pricing
-* 📙 [Pricing](https://cloud.google.com/products/gemini/pricing)
   
 ## Codelabs
 * 📦+✏️ [Build gen AI features powered by your data with Firebase Genkit](https://firebase.google.com/codelabs/ai-genkit-rag?hl=en#0)
