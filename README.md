@@ -71,17 +71,34 @@
 
 ## Gemini for Google Cloud Use cases and Quickstarts
 * ✏️ [Try Gemini in Cloud Console](https://cloud.google.com/gemini/docs/quickstart)
-* ✏️ [Analyze data](https://cloud.google.com/gemini/docs/use-cases/analyze-data-gemini)
-* ✏️ [Develop a Python App](https://cloud.google.com/gemini/docs/use-cases/python-developer-gemini)
-* ✏️ [Create a private build](https://cloud.google.com/gemini/docs/use-cases/dev-ops-eng-gemini)
-* ✏️ [Develop a Node.js app](https://cloud.google.com/gemini/docs/use-cases/js-developer-gemini)
-* ✏️ [Architect a multi-tier app](https://cloud.google.com/gemini/docs/use-cases/cloud-architect-gemini)
-* ✏️ [Create and modify a VPC network](https://cloud.google.com/gemini/docs/use-cases/network-engineer-gemini)
-* ✏️ [Create and modify a GKE cluster with Gemini for Google Cloud assistance](https://cloud.google.com/gemini/docs/use-cases/infrastructure-admin-gemini)
-* ✏️ [Write code in a Colab Enterprise notebook with Gemini assistance](https://cloud.google.com/colab/docs/use-code-completion) 
-* ✏️ **Preview** [BigQuery - Write queries with Gemini assistance](https://cloud.google.com/bigquery/docs/write-sql-gemini)
-* ✏️ **Preview** [Cloud Spanner - Write SQL with Gemini assistance](https://cloud.google.com/spanner/docs/write-sql-gemini)
-  
+* Gemini Cloud Assist
+  * ✏️ [Analyze and optimize Google Cloud resources](https://cloud.google.com/gemini/docs/cloud-assist/analyze-and-optimize-cloud-resources)
+* Gemini Code Assist
+  * ✏️ [Code with Gemini Code Assist](https://cloud.google.com/gemini/docs/codeassist/write-code-gemini)
+* Gemini in BigQuery
+  * ✏️ [Analyze data](https://cloud.google.com/gemini/docs/use-cases/analyze-data-gemini)
+  * ✏️ [Write queries with Gemini assistance](https://cloud.google.com/bigquery/docs/write-sql-gemini)
+* Gemini in Databases
+  * ✏️ [Index Advisor](https://cloud.google.com/gemini/docs/databases/set-up-gemini#index-advisor) 
+  * ✏️ [Cloud Spanner - Write SQL with Gemini assistance](https://cloud.google.com/spanner/docs/write-sql-gemini)
+* Gemini in Colab Enterprise
+  * ✏️ [Write code in a Colab Enterprise notebook with Gemini assistance](https://cloud.google.com/colab/docs/use-code-completion)
+* Gemini in Looker
+  * ✏️ [Gemini Assistance in Looker](https://cloud.google.com/gemini/docs/looker/overview#gemini-interact) 
+
+## Courses 
+* 📦+✏️ [Gemini for Google Cloud - Learning Path](https://www.cloudskillsboost.google/paths/236): The Gemini for Google Cloud learning path provides examples of how Gemini can help make engineers of all types more efficient in their daily activities.
+  - [Gemini for Application Developers](https://www.cloudskillsboost.google/paths/236/course_sessions/7024601/labs/448290)
+  - [Gemini for Cloud Architects](https://www.cloudskillsboost.google/paths/236/course_templates/878)
+  - [Gemini for Data Scientists and Analysts](https://www.cloudskillsboost.google/paths/236/course_templates/879)
+  - [Gemini for Network Engineers](https://www.cloudskillsboost.google/paths/236/course_templates/884)
+  - [Gemini for Security Engineers](https://www.cloudskillsboost.google/paths/236/course_templates/886)
+  - [Gemini for DevOps Engineers](https://www.cloudskillsboost.google/paths/236/course_templates/882)
+  - [Gemini for end-to-end SDLC](https://www.cloudskillsboost.google/paths/236/course_sessions/11762414/labs/448528)
+  - [Develop Gen AI Apps with Gemini and Streamlit](https://www.cloudskillsboost.google/paths/236/course_templates/978)
+* 📦+✏️ [Gemini courses on LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=gemini)
+* 📦+✏️ [Gemini API by Google - Udacity](https://www.udacity.com/enrollment/cd13416)
+
 ## Codelabs
 * 📦+✏️ [Build gen AI features powered by your data with Firebase Genkit](https://firebase.google.com/codelabs/ai-genkit-rag?hl=en#0)
 * 📦+✏️ [Build AI-powered web apps with Firebase Extensions for the Gemini API](https://firebase.google.com/codelabs/gemini-api-extensions-web?hl=en#0)
@@ -109,18 +126,7 @@
 * 📦+✏️ [Codelab: Duet AI to accelerate test driven development](https://codelabs.developers.google.com/tdd-ruby-app-duetai?hl=en)
 * 📦+✏️ [Bookshelf Analytics: Use Gemini to build a Java Cloud Run Application that takes BigQuery data to the web](https://codelabs.developers.google.com/bookshelf-duetai-web-cloudrun?hl=en)
 
-## Courses 
-* 📦+✏️ [Gemini for Google Cloud - Learning Path](https://www.cloudskillsboost.google/paths/236): The Gemini for Google Cloud learning path provides examples of how Gemini can help make engineers of all types more efficient in their daily activities.
-  - [Gemini for Application Developers](https://www.cloudskillsboost.google/paths/236/course_sessions/7024601/labs/448290)
-  - [Gemini for Cloud Architects](https://www.cloudskillsboost.google/paths/236/course_templates/878)
-  - [Gemini for Data Scientists and Analysts](https://www.cloudskillsboost.google/paths/236/course_templates/879)
-  - [Gemini for Network Engineers](https://www.cloudskillsboost.google/paths/236/course_templates/884)
-  - [Gemini for Security Engineers](https://www.cloudskillsboost.google/paths/236/course_templates/886)
-  - [Gemini for DevOps Engineers](https://www.cloudskillsboost.google/paths/236/course_templates/882)
-  - [Gemini for end-to-end SDLC](https://www.cloudskillsboost.google/paths/236/course_sessions/11762414/labs/448528)
-  - [Develop Gen AI Apps with Gemini and Streamlit](https://www.cloudskillsboost.google/paths/236/course_templates/978)
-* 📦+✏️ [Gemini courses on LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=gemini)
-* 📦+✏️ [Gemini API by Google - Udacity](https://www.udacity.com/enrollment/cd13416)
+
 
 ## Repositories
 * 📦+✏️ [Gemini Code Assist Tour](https://github.com/meteatamel/gemini-code-assist-tour/tree/main)
