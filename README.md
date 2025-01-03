@@ -16,7 +16,9 @@
 
 ## Gemini for Google Cloud - Product Offerings  
 * 📙 [Gemini Code Assist](https://cloud.google.com/gemini/docs/codeassist/overview)
-* 📙 [Gemini Cloud Assist](https://cloud.google.com/gemini/docs/cloud-assist/overview)
+* 📙 [Gemini Cloud Assist]
+  * 📙 [Docs Overview](https://cloud.google.com/gemini/docs/cloud-assist/overview)
+  * 📙 [Product Page](https://cloud.google.com/products/gemini/code-assist)
 * 📙 [Gemini in Security Command Center](https://cloud.google.com/gemini/docs/security-command-center/overview)
 * 📙 [Gemini in Databases](https://cloud.google.com/gemini/docs/databases/overview)
 * 📙 [Gemini in Looker](https://cloud.google.com/gemini/docs/looker/overview)
