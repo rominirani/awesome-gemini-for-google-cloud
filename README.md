@@ -60,7 +60,10 @@
 * Gemini in Colab Enterprise
   * ✏️ [Write code in a Colab Enterprise notebook with Gemini assistance](https://cloud.google.com/colab/docs/use-code-completion)
 * Gemini in Looker
-  * ✏️ [Gemini Assistance in Looker](https://cloud.google.com/gemini/docs/looker/overview#gemini-interact) 
+  * ✏️ [Gemini Assistance in Looker](https://cloud.google.com/gemini/docs/looker/overview#gemini-interact)
+* Gemini in Multimodal Live API - Web console
+  * ✏️ [Multimodal Live API - Web console](https://ai.google.dev/api/multimodal-live)
+  * ✏️ [Github Repo](https://github.com/google-gemini/multimodal-live-api-web-console)
 
 ## Gemini - Data Governance/Certifications/Citations
 * 📙 [How Gemini works](https://cloud.google.com/gemini/docs/discover/works)
