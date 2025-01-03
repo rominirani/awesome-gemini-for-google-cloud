@@ -129,5 +129,4 @@
 * 📰 https://medium.com/google-cloud/codelab-using-gemini-code-assist-to-explore-and-enhance-generative-ai-document-summarization-jump-28c410042544
 * 📰 https://medium.com/@thatsiemguy/creating-an-entity-explorer-widget-in-chronicle-soar-with-gemini-code-assist-9addcdaf915d
 * 📰 https://medium.com/google-cloud/getting-the-most-out-of-gemini-code-assist-6bb87d22336c
-* 📰 https://medium.com/google-cloud/google-gemini-for-network-configuration-assistance-707de8df605d
-* 
+* 📰 https://medium.com/google-cloud/google-gemini-for-network-configuration-assistance-707de8df605d 
