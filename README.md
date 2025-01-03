@@ -35,22 +35,34 @@
 * 📙 [Locations | Gemini for Google Cloud](https://cloud.google.com/gemini/docs/locations)
 * 📙 [Provide Gemini in Google Cloud Feedback](https://cloud.google.com/gemini/docs/support/feedback)
 
+## Pricing
+* 📙 [Pricing](https://cloud.google.com/products/gemini/pricing)
+  * 📙 [Gemini Code Assist Pricing](https://cloud.google.com/products/gemini/pricing#pricing_overview)
+  * 📙 [Gemini in BigQuery Pricing](https://cloud.google.com/products/gemini/pricing#gemini-in-bigquery-pricing)
+       
 ## Release Notes
 * 📙 [Release Notes](https://cloud.google.com/gemini/docs/release-notes)
 
-## Gemini - Prompt Techniques
+## Prompt Techniques
 * 📙 [Write Better Prompts](https://cloud.google.com/gemini/docs/discover/write-prompts)
 
-## Pricing
-* 📙 [Pricing](https://cloud.google.com/products/gemini/pricing)
-
-## Setup Gemini for a Project
-* 📙 [Try Gemini in Cloud Console](https://cloud.google.com/gemini/docs/quickstart)
-* 📙 [Set up Gemini Code Assist for a project](https://cloud.google.com/gemini/docs/discover/set-up-gemini)
-* 📙 [Set up Gemini in BigQuery](https://cloud.google.com/gemini/docs/bigquery/set-up-gemini)
-* 📙 [Set up Gemini in Databases](https://cloud.google.com/gemini/docs/databases/set-up-gemini)
-* 📙 [Gemini - Add/Edit Subscriptions](https://cloud.google.com/gemini/docs/admin)
-* 📙 [Troubleshoot Setup Issues](https://cloud.google.com/gemini/docs/support/troubleshoot-setup)
+## Setup Gemini for Google Cloud
+* 📙 Subscriptions and Licenses
+  * 📙 [Gemini for Google Cloud - Add or Change Subscriptions](https://cloud.google.com/gemini/docs/admin)
+  * 📙 [Manage Gemini Code Assist Licenses](https://cloud.google.com/gemini/docs/manage-licenses)
+* 📙 Gemini for Google Cloud Monitoring/Logging
+  * 📙 [Monitoring usage](https://cloud.google.com/gemini/docs/monitor-gemini)
+  * 📙 [Gemini usage logging](https://cloud.google.com/gemini/docs/log-gemini)
+  * 📙 [Audit Logging](https://cloud.google.com/gemini/docs/audit-logging)
+* 📙 Individual Products Setup
+  * 📙 [Setup Gemini Cloud Assist](https://cloud.google.com/gemini/docs/cloud-assist/set-up-gemini)
+  * 📙 [Set up Gemini Code Assist for a project](https://cloud.google.com/gemini/docs/discover/set-up-gemini)
+    * 📙 [Configure Code Customization](https://cloud.google.com/gemini/docs/codeassist/code-customization)
+    * 📙 [Configure VPC Service Controls](https://cloud.google.com/gemini/docs/configure-vpc-service-controls)
+    * 📙 [Capture Gemini Code Assist metrics via Cloud Logging](https://cloud.google.com/gemini/docs/codeassist/generate-metrics)
+  * 📙 [Set up Gemini in BigQuery](https://cloud.google.com/gemini/docs/bigquery/set-up-gemini)
+  * 📙 [Set up Gemini in Colab](https://cloud.google.com/gemini/docs/colab/set-up-gemini)
+  * 📙 [Set up Gemini in Databases](https://cloud.google.com/gemini/docs/databases/set-up-gemini)
 
 ## Features
 * 📙 Gemini Code Assist
