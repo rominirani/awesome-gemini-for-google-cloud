@@ -8,13 +8,17 @@
 
 *Legend*: 📙: doc, 📰: article, 📦: sample, 🎬: video, 🖼️: slides, ✏️: interactive tutorial, :headphones: : audio, 🛠️: tool
 
-## Product pages
+## Gemini for Google Cloud - Home, Product Overview and Documentation pages
 
 * 📙 [Home - Gemini for Google Cloud](https://cloud.google.com/products/gemini)
-* 📙 [Gemini Code Assist](https://cloud.google.com/products/gemini/code-assist)
-* 📙 [Gemini Cloud Assist](https://cloud.google.com/products/gemini/cloud-assist)
+* 📙 [Documentation Home Page - Gemini for Google Cloud](https://cloud.google.com/gemini/docs)
+* 📙 [Product Overview - Gemini for Google Cloud](https://cloud.google.com/gemini/docs/overview)
+
+## Gemini for Google Cloud - Product Offerings  
+* 📙 [Gemini Code Assist](https://cloud.google.com/gemini/docs/codeassist/overview)
+* 📙 [Gemini Cloud Assist](https://cloud.google.com/gemini/docs/cloud-assist/overview)
 * 📙 [Gemini in Security Command Center](https://cloud.google.com/gemini/docs/security-command-center/overview)
-* 📙 [Gemini in Databases](https://cloud.google.com/products/gemini/databases)
+* 📙 [Gemini in Databases](https://cloud.google.com/gemini/docs/databases/overview)
 * 📙 [Gemini in Looker](https://cloud.google.com/gemini/docs/looker/overview)
 * 📙 [Gemini in Colab Enterprise](https://cloud.google.com/gemini/docs/colab/overview)
 * 📙 [Gemini in BigQuery](https://cloud.google.com/gemini/docs/bigquery/overview)
